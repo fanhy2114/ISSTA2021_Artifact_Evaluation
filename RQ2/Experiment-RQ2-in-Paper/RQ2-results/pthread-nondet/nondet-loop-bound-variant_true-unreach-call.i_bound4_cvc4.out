@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-nondet/nondet-loop-bound-variant_true-unreach-call.i/bound4.smt:1113.110: Unexpected token: '<<EOF>>'.")
+
+real	0m0.020s
+user	0m0.017s
+sys	0m0.003s
+State: RE Run_time: 0.02235579490661621

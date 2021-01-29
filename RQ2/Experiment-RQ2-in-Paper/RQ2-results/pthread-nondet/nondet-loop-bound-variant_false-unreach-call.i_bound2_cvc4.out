@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-nondet/nondet-loop-bound-variant_false-unreach-call.i/bound2.smt:581.78: Sequence terminated early by token: '<<EOF>>'.")
+
+real	0m0.014s
+user	0m0.011s
+sys	0m0.003s
+State: RE Run_time: 0.015774965286254883

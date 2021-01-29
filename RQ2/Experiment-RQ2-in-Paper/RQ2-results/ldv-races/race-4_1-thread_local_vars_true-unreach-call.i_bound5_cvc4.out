@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/ldv-races/race-4_1-thread_local_vars_true-unreach-call.i/bound5.smt:361795.205: Unexpected token: '<<EOF>>'.")
+
+real	0m54.667s
+user	0m54.466s
+sys	0m0.143s
+State: RE Run_time: 54.669230937957764

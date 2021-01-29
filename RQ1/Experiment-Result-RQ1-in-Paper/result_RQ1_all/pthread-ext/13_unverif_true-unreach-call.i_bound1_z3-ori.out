@@ -1,0 +1,139 @@
+unsat
+(error "line 489 column 17: model is not available")
+(error "line 490 column 17: model is not available")
+(error "line 491 column 18: model is not available")
+(error "line 492 column 18: model is not available")
+(error "line 493 column 18: model is not available")
+(error "line 494 column 18: model is not available")
+(error "line 495 column 18: model is not available")
+(error "line 496 column 18: model is not available")
+(error "line 497 column 18: model is not available")
+(error "line 498 column 18: model is not available")
+(error "line 499 column 18: model is not available")
+(error "line 500 column 18: model is not available")
+(error "line 501 column 17: model is not available")
+(error "line 502 column 18: model is not available")
+(error "line 503 column 18: model is not available")
+(error "line 504 column 18: model is not available")
+(error "line 505 column 18: model is not available")
+(error "line 506 column 18: model is not available")
+(error "line 507 column 17: model is not available")
+(error "line 508 column 17: model is not available")
+(error "line 509 column 17: model is not available")
+(error "line 510 column 17: model is not available")
+(error "line 511 column 17: model is not available")
+(error "line 512 column 17: model is not available")
+(error "line 513 column 17: model is not available")
+(error "line 514 column 38: model is not available")
+(error "line 515 column 45: model is not available")
+(error "line 516 column 38: model is not available")
+(error "line 517 column 45: model is not available")
+(error "line 518 column 46: model is not available")
+(error "line 519 column 53: model is not available")
+(error "line 520 column 40: model is not available")
+(error "line 521 column 47: model is not available")
+(error "line 522 column 38: model is not available")
+(error "line 523 column 45: model is not available")
+(error "line 524 column 38: model is not available")
+(error "line 525 column 45: model is not available")
+(error "line 526 column 41: model is not available")
+(error "line 527 column 48: model is not available")
+(error "line 528 column 41: model is not available")
+(error "line 529 column 48: model is not available")
+(error "line 530 column 37: model is not available")
+(error "line 531 column 44: model is not available")
+(error "line 532 column 42: model is not available")
+(error "line 533 column 42: model is not available")
+(error "line 534 column 38: model is not available")
+(error "line 535 column 38: model is not available")
+(error "line 536 column 38: model is not available")
+(error "line 537 column 41: model is not available")
+(error "line 538 column 48: model is not available")
+(error "line 539 column 41: model is not available")
+(error "line 540 column 48: model is not available")
+(error "line 541 column 41: model is not available")
+(error "line 542 column 48: model is not available")
+(error "line 543 column 38: model is not available")
+(error "line 544 column 38: model is not available")
+(error "line 545 column 36: model is not available")
+(error "line 546 column 29: model is not available")
+(error "line 547 column 31: model is not available")
+(error "line 548 column 38: model is not available")
+(error "line 549 column 31: model is not available")
+(error "line 550 column 38: model is not available")
+(error "line 551 column 50: model is not available")
+(error "line 552 column 50: model is not available")
+(error "line 553 column 50: model is not available")
+(error "line 554 column 51: model is not available")
+(error "line 555 column 51: model is not available")
+(error "line 556 column 50: model is not available")
+(error "line 557 column 50: model is not available")
+(error "line 558 column 55: model is not available")
+(error "line 559 column 54: model is not available")
+(error "line 560 column 54: model is not available")
+(error "line 561 column 46: model is not available")
+(error "line 562 column 46: model is not available")
+(error "line 563 column 54: model is not available")
+(error "line 564 column 54: model is not available")
+(error "line 565 column 54: model is not available")
+(error "line 566 column 40: model is not available")
+(error "line 567 column 40: model is not available")
+(error "line 568 column 41: model is not available")
+(error "line 569 column 41: model is not available")
+(error "line 570 column 50: model is not available")
+(error "line 571 column 50: model is not available")
+(error "line 572 column 43: model is not available")
+(error "line 573 column 43: model is not available")
+(error "line 574 column 18: model is not available")
+(error "line 575 column 25: model is not available")
+(error "line 576 column 18: model is not available")
+(error "line 577 column 25: model is not available")
+(error "line 578 column 18: model is not available")
+(error "line 579 column 18: model is not available")
+(error "line 580 column 25: model is not available")
+(error "line 581 column 18: model is not available")
+(error "line 582 column 25: model is not available")
+(error "line 583 column 18: model is not available")
+(error "line 584 column 25: model is not available")
+(error "line 585 column 18: model is not available")
+(error "line 586 column 25: model is not available")
+(error "line 587 column 18: model is not available")
+(error "line 588 column 25: model is not available")
+(error "line 589 column 18: model is not available")
+(error "line 590 column 25: model is not available")
+(error "line 591 column 30: model is not available")
+(error "line 592 column 36: model is not available")
+(error "line 593 column 36: model is not available")
+(error "line 594 column 31: model is not available")
+(error "line 595 column 31: model is not available")
+(error "line 596 column 31: model is not available")
+(error "line 597 column 31: model is not available")
+(error "line 598 column 30: model is not available")
+(error "line 600 column 10: model is not available")
+(:arith-assert-lower        13
+ :arith-assert-upper        9
+ :arith-bound-prop          6
+ :arith-num-rows            26
+ :arith-pivots              22
+ :arith-row-summations      72
+ :arith-tableau-max-columns 40
+ :arith-tableau-max-rows    26
+ :binary-propagations       1
+ :conflicts                 1
+ :eliminated-applications   18
+ :eliminated-vars           14
+ :max-memory                3.06
+ :memory                    2.75
+ :mk-bool-var               45
+ :mk-clause                 6
+ :num-allocs                333685
+ :num-checks                1
+ :propagations              1
+ :rlimit-count              10123
+ :time                      0.00
+ :total-time                0.01)
+
+real	0m0.012s
+user	0m0.007s
+sys	0m0.006s
+State: RE Run_time: 0.014333486557006836

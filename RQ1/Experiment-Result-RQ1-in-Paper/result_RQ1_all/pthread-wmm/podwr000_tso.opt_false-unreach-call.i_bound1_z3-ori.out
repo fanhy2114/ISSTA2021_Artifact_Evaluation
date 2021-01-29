@@ -1,0 +1,2423 @@
+sat
+((|B0| true))
+((|B1| true))
+((|B10| true))
+((|B100| true))
+((|B101| true))
+((|B102| true))
+((|B103| true))
+((|B104| true))
+((|B105| true))
+((|B106| true))
+((|B107| true))
+((|B108| true))
+((|B109| true))
+((|B11| true))
+((|B110| true))
+((|B111| true))
+((|B112| true))
+((|B113| true))
+((|B114| true))
+((|B115| true))
+((|B116| true))
+((|B117| true))
+((|B118| true))
+((|B119| true))
+((|B12| true))
+((|B120| true))
+((|B121| true))
+((|B122| true))
+((|B123| true))
+((|B124| true))
+((|B125| true))
+((|B126| true))
+((|B127| true))
+((|B128| true))
+((|B129| true))
+((|B13| true))
+((|B130| true))
+((|B131| true))
+((|B132| true))
+((|B133| true))
+((|B134| true))
+((|B135| true))
+((|B136| true))
+((|B137| true))
+((|B138| true))
+((|B139| true))
+((|B14| true))
+((|B140| true))
+((|B141| true))
+((|B142| true))
+((|B143| true))
+((|B144| true))
+((|B145| true))
+((|B146| true))
+((|B147| true))
+((|B148| true))
+((|B149| true))
+((|B15| true))
+((|B150| true))
+((|B151| true))
+((|B152| true))
+((|B153| true))
+((|B154| true))
+((|B155| true))
+((|B156| true))
+((|B157| true))
+((|B158| true))
+((|B159| true))
+((|B16| true))
+((|B160| true))
+((|B161| true))
+((|B162| true))
+((|B163| true))
+((|B164| true))
+((|B165| true))
+((|B166| true))
+((|B167| true))
+((|B168| false))
+((|B169| true))
+((|B17| true))
+((|B170| false))
+((|B171| true))
+((|B18| true))
+((|B19| true))
+((|B2| true))
+((|B20| true))
+((|B21| true))
+((|B22| true))
+((|B23| true))
+((|B24| true))
+((|B25| true))
+((|B26| true))
+((|B27| true))
+((|B28| true))
+((|B29| true))
+((|B3| true))
+((|B30| true))
+((|B31| true))
+((|B32| true))
+((|B33| true))
+((|B34| true))
+((|B35| true))
+((|B36| true))
+((|B37| true))
+((|B38| true))
+((|B39| true))
+((|B4| true))
+((|B40| true))
+((|B41| true))
+((|B42| true))
+((|B43| true))
+((|B44| true))
+((|B45| true))
+((|B46| true))
+((|B47| true))
+((|B48| true))
+((|B49| true))
+((|B5| true))
+((|B50| true))
+((|B51| true))
+((|B52| false))
+((|B53| true))
+((|B54| true))
+((|B55| true))
+((|B56| true))
+((|B57| true))
+((|B58| true))
+((|B59| true))
+((|B6| true))
+((|B60| true))
+((|B61| true))
+((|B62| true))
+((|B63| true))
+((|B64| false))
+((|B65| false))
+((|B66| false))
+((|B67| false))
+((|B68| false))
+((|B69| false))
+((|B7| true))
+((|B70| false))
+((|B71| true))
+((|B72| true))
+((|B73| true))
+((|B74| true))
+((|B75| true))
+((|B76| true))
+((|B77| true))
+((|B78| true))
+((|B79| true))
+((|B8| true))
+((|B80| true))
+((|B81| true))
+((|B82| true))
+((|B83| true))
+((|B84| true))
+((|B85| true))
+((|B86| true))
+((|B87| true))
+((|B88| true))
+((|B89| true))
+((|B9| true))
+((|B90| true))
+((|B91| true))
+((|B92| true))
+((|B93| true))
+((|B94| true))
+((|B95| true))
+((|B96| true))
+((|B97| true))
+((|B98| true))
+((|B99| true))
+((|P0#return_value!1#1| #x00000000))
+((|P0#return_value!1#2| #x00000000))
+((|P0#return_value!2#1| #x00000000))
+((|P0::$tmp::return_value___VERIFIER_nondet_pointer$1!1@1#1| #x00000000))
+((|P0::$tmp::return_value___VERIFIER_nondet_pointer$1!1@1#2| #x00000000))
+((|P0::arg!1@1#1| #x00000000))
+((|P1#return_value!1#1| #x00000000))
+((|P1#return_value!2#1| #x00000000))
+((|P1#return_value!2#2| #x00000000))
+((|P1::$tmp::return_value___VERIFIER_nondet_pointer$1!2@1#1| #x00000000))
+((|P1::$tmp::return_value___VERIFIER_nondet_pointer$1!2@1#2| #x00000000))
+((|P1::$tmp::return_value___VERIFIER_nondet_pointer$2!2@1#1| #x00000000))
+((|P1::$tmp::return_value___VERIFIER_nondet_pointer$2!2@1#2| #xffffffff))
+((|P1::$tmp::return_value___VERIFIER_nondet_pointer$3!2@1#1| #x00000000))
+((|P1::$tmp::return_value___VERIFIER_nondet_pointer$3!2@1#2| #x00000000))
+((|P1::arg!2@1#1| #x00000000))
+((|__CPROVER_dead_object#1| #x00000000))
+((|__CPROVER_dead_object#1$wclk$8| (- 50)))
+((|__CPROVER_deallocated#1| #x00000000))
+((|__CPROVER_deallocated#1$wclk$8| (- 49)))
+((|__CPROVER_malloc_is_new_array#1| false))
+((|__CPROVER_malloc_is_new_array#1$wclk$8| (- 48)))
+((|__CPROVER_malloc_object#1| #x00000000))
+((|__CPROVER_malloc_object#1$wclk$8| (- 47)))
+((|__CPROVER_malloc_size#1| #x00000000))
+((|__CPROVER_malloc_size#1$wclk$8| (- 46)))
+((|__CPROVER_memory_leak#1| #x00000000))
+((|__CPROVER_memory_leak#1$wclk$8| (- 45)))
+((|__CPROVER_next_thread_id#1| #x00000000))
+((|__CPROVER_next_thread_id#1$wclk$8| (- 44)))
+((|__CPROVER_next_thread_id#2| #x00000001))
+((|__CPROVER_next_thread_id#2$wclk$8| (- 17)))
+((|__CPROVER_next_thread_id#3| #x00000001))
+((|__CPROVER_next_thread_id#3$rclk$8| (- 13)))
+((|__CPROVER_next_thread_id#4| #x00000001))
+((|__CPROVER_next_thread_id#5| #x00000002))
+((|__CPROVER_next_thread_id#5$wclk$8| (- 13)))
+((|__CPROVER_pipe_count#1| #x00000000))
+((|__CPROVER_pipe_count#1$wclk$8| (- 43)))
+((|__CPROVER_rounding_mode!0#1| #x00000000))
+((|__CPROVER_rounding_mode!1#1| #x00000000))
+((|__CPROVER_rounding_mode!2#1| #x00000000))
+((|__CPROVER_thread_id!0#1| #x00000000))
+((|__CPROVER_thread_id!1#1| #x00000000))
+((|__CPROVER_thread_id!1#2| #x00000000))
+((|__CPROVER_thread_id!2#1| #x00000000))
+((|__CPROVER_thread_id!2#2| #x00000000))
+((|__CPROVER_threads_exited#1| ((as const (Array (_ BitVec 32) Bool)) false)))
+((|__CPROVER_threads_exited#1$wclk$8| (- 42)))
+((|__CPROVER_threads_exited#2| ((as const (Array (_ BitVec 32) Bool)) false)))
+((|__CPROVER_threads_exited#2$rclk$8| (- 5)))
+((|__CPROVER_threads_exited#3| (store ((as const (Array (_ BitVec 32) Bool)) false) #x00000000 true)))
+((|__CPROVER_threads_exited#3$wclk$8| (- 3)))
+((|__CPROVER_threads_exited#4| ((as const (Array (_ BitVec 32) Bool)) false)))
+((|__CPROVER_threads_exited#4$rclk$8| (- 6)))
+((|__CPROVER_threads_exited#5| (store ((as const (Array (_ BitVec 32) Bool)) false) #x00000000 true)))
+((|__CPROVER_threads_exited#5$wclk$8| (- 4)))
+((|__VERIFIER_assert::expression!0@1#1| #x00000000))
+((|__VERIFIER_assert::expression!1@1#1| #x00000001))
+((|__VERIFIER_nondet_pointer#return_value!1#1| #x00000000))
+((|__VERIFIER_nondet_pointer#return_value!2#1| #x00000000))
+((|__unbuffered_cnt#1| #x00000000))
+((|__unbuffered_cnt#1$wclk$8| (- 41)))
+((|__unbuffered_cnt#10| #x00000001))
+((|__unbuffered_cnt#10$wclk$8| (- 7)))
+((|__unbuffered_cnt#2| #x00000002))
+((|__unbuffered_cnt#2$rclk$8| (- 5)))
+((|__unbuffered_cnt#3| #x00000002))
+((|__unbuffered_cnt#4| #x00000001))
+((|__unbuffered_cnt#4$rclk$8| (- 6)))
+((|__unbuffered_cnt#5| #x00000001))
+((|__unbuffered_cnt#6| #x00000002))
+((|__unbuffered_cnt#7| #x00000002))
+((|__unbuffered_cnt#7$wclk$8| (- 6)))
+((|__unbuffered_cnt#8| #x00000000))
+((|__unbuffered_cnt#8$rclk$8| (- 7)))
+((|__unbuffered_cnt#9| #x00000000))
+((|__unbuffered_p0_EAX#1| #x00000000))
+((|__unbuffered_p0_EAX#1$wclk$8| (- 40)))
+((|__unbuffered_p0_EAX#2| #x00000000))
+((|__unbuffered_p0_EAX#2$rclk$8| (- 2)))
+((|__unbuffered_p0_EAX#3| #x00000000))
+((|__unbuffered_p0_EAX#4| #x00000000))
+((|__unbuffered_p0_EAX#5| #xffffffff))
+((|__unbuffered_p0_EAX#5$rclk$8| (- 11)))
+((|__unbuffered_p0_EAX#6| #x00000000))
+((|__unbuffered_p0_EAX#6$wclk$8| (- 11)))
+((|__unbuffered_p1_EAX#1| #x00000000))
+((|__unbuffered_p1_EAX#1$wclk$8| (- 39)))
+((|__unbuffered_p1_EAX#2| #x00000000))
+((|__unbuffered_p1_EAX#2$rclk$8| (- 2)))
+((|__unbuffered_p1_EAX#3| #x00000000))
+((|__unbuffered_p1_EAX#4| #x00000000))
+((|__unbuffered_p1_EAX#4$wclk$8| (- 9)))
+((|goto_symex::&92;guard#1| true))
+((|goto_symex::&92;guard#2| false))
+((|main#return_value!0#1| #x00000000))
+((|main#return_value!1#1| #x00000000))
+((|main#return_value!2#1| #x00000000))
+((|main$tmp_guard0#1| #x00))
+((|main$tmp_guard0#1$wclk$8| (- 38)))
+((|main$tmp_guard0#2| #x01))
+((|main$tmp_guard0#2$wclk$8| (- 5)))
+((|main$tmp_guard0#3| #x01))
+((|main$tmp_guard0#3$rclk$8| (- 4)))
+((|main$tmp_guard1#1| #x00))
+((|main$tmp_guard1#1$wclk$8| (- 37)))
+((|main$tmp_guard1#2| #x00))
+((|main$tmp_guard1#3| #xff))
+((|main$tmp_guard1#3$rclk$8| (- 2)))
+((|main$tmp_guard1#4| #x00))
+((|main$tmp_guard1#4$wclk$8| (- 2)))
+((|main$tmp_guard1#5| #x00))
+((|main$tmp_guard1#5$rclk$8| (- 1)))
+((|main$tmp_guard1#6| #x00))
+((|main$tmp_guard1#6$rclk$8| 0))
+((|main::1::t1561!0@1| #x00000000))
+((|main::1::t1561!0@1#1| #x00000000))
+((|main::1::t1561!0@1#1$wclk$8| (- 18)))
+((|main::1::t1561!0@1#2| #x00000001))
+((|main::1::t1561!0@1#2$wclk$8| (- 16)))
+((|main::1::t1562!0@1| #x00000000))
+((|main::1::t1562!0@1#1| #x00000000))
+((|main::1::t1562!0@1#1$wclk$8| (- 14)))
+((|main::1::t1562!0@1#2| #x00000002))
+((|main::1::t1562!0@1#2$wclk$8| (- 12)))
+((|main::1::t1562!0@1$wclk$8| (- 51)))
+((|memory_model::choice_rf_0_38_0_34_T_5| true))
+((|memory_model::choice_rf_0_38_0_7_T_4| false))
+((|memory_model::choice_rf_0_42_0_10_F_8| false))
+((|memory_model::choice_rf_0_42_1_32_F_9| true))
+((|memory_model::choice_rf_0_42_2_33_F_10| false))
+((|memory_model::choice_rf_0_44_0_13_F_20| false))
+((|memory_model::choice_rf_0_44_0_43_F_21| true))
+((|memory_model::choice_rf_0_45_0_18_F_27| false))
+((|memory_model::choice_rf_0_45_1_30_F_28| true))
+((|memory_model::choice_rf_0_45_2_13_F_29| false))
+((|memory_model::choice_rf_0_45_2_31_F_30| false))
+((|memory_model::choice_rf_0_46_0_31_F_105| false))
+((|memory_model::choice_rf_0_46_1_15_F_106| false))
+((|memory_model::choice_rf_0_46_2_11_F_107| true))
+((|memory_model::choice_rf_0_47_0_24_F_54| false))
+((|memory_model::choice_rf_0_47_1_11_F_55| true))
+((|memory_model::choice_rf_0_48_0_32_F_116| false))
+((|memory_model::choice_rf_0_48_1_13_F_117| false))
+((|memory_model::choice_rf_0_48_1_28_F_118| true))
+((|memory_model::choice_rf_0_48_2_10_F_119| false))
+((|memory_model::choice_rf_0_48_2_29_F_120| false))
+((|memory_model::choice_rf_0_49_0_29_F_69| false))
+((|memory_model::choice_rf_0_49_1_14_F_70| false))
+((|memory_model::choice_rf_0_49_2_12_F_71| true))
+((|memory_model::choice_rf_0_50_0_21_F_42| true))
+((|memory_model::choice_rf_0_51_0_30_F_82| false))
+((|memory_model::choice_rf_0_51_1_12_F_83| false))
+((|memory_model::choice_rf_0_51_1_29_F_84| true))
+((|memory_model::choice_rf_0_51_2_17_F_85| false))
+((|memory_model::choice_rf_0_51_2_30_F_86| false))
+((|memory_model::choice_rf_0_57_0_14_F_22| false))
+((|memory_model::choice_rf_0_58_0_12_F_18| false))
+((|memory_model::choice_rf_0_58_2_14_F_19| true))
+((|memory_model::choice_rf_0_59_0_11_F_15| false))
+((|memory_model::choice_rf_0_59_1_18_F_16| true))
+((|memory_model::choice_rf_0_61_0_14_F_23| false))
+((|memory_model::choice_rf_0_61_0_60_F_24| true))
+((|memory_model::choice_rf_0_62_0_14_F_25| false))
+((|memory_model::choice_rf_0_62_0_60_F_26| true))
+((|memory_model::choice_rf_1_0_0_23_F_48| true))
+((|memory_model::choice_rf_1_0_2_28_F_50| false))
+((|memory_model::choice_rf_1_0_2_9_F_49| false))
+((|memory_model::choice_rf_1_16_0_11_F_17| false))
+((|memory_model::choice_rf_1_17_0_17_F_6| true))
+((|memory_model::choice_rf_1_17_2_0_F_7| false))
+((|memory_model::choice_rf_1_19_0_18_F_31| false))
+((|memory_model::choice_rf_1_19_0_56_F_32| false))
+((|memory_model::choice_rf_1_19_2_13_F_33| false))
+((|memory_model::choice_rf_1_19_2_31_F_34| true))
+((|memory_model::choice_rf_1_1_0_24_F_56| false))
+((|memory_model::choice_rf_1_1_0_52_F_57| false))
+((|memory_model::choice_rf_1_20_0_31_F_108| false))
+((|memory_model::choice_rf_1_20_1_15_F_109| false))
+((|memory_model::choice_rf_1_20_2_11_F_110| true))
+((|memory_model::choice_rf_1_21_0_32_F_121| false))
+((|memory_model::choice_rf_1_21_0_54_F_122| false))
+((|memory_model::choice_rf_1_21_1_13_F_123| false))
+((|memory_model::choice_rf_1_21_2_10_F_124| false))
+((|memory_model::choice_rf_1_21_2_29_F_125| true))
+((|memory_model::choice_rf_1_22_0_29_F_74| false))
+((|memory_model::choice_rf_1_22_1_14_F_75| false))
+((|memory_model::choice_rf_1_22_2_12_F_76| true))
+((|memory_model::choice_rf_1_23_0_25_F_59| false))
+((|memory_model::choice_rf_1_23_1_10_F_60| true))
+((|memory_model::choice_rf_1_24_0_22_F_46| false))
+((|memory_model::choice_rf_1_24_1_8_F_47| true))
+((|memory_model::choice_rf_1_25_0_30_F_91| false))
+((|memory_model::choice_rf_1_25_0_55_F_92| false))
+((|memory_model::choice_rf_1_25_1_12_F_93| false))
+((|memory_model::choice_rf_1_25_2_17_F_94| false))
+((|memory_model::choice_rf_1_25_2_30_F_95| true))
+((|memory_model::choice_rf_1_2_0_26_F_61| false))
+((|memory_model::choice_rf_1_2_2_27_F_63| false))
+((|memory_model::choice_rf_1_2_2_8_F_62| false))
+((|memory_model::choice_rf_1_31_0_10_F_11| false))
+((|memory_model::choice_rf_1_31_2_33_F_12| true))
+((|memory_model::choice_rf_1_33_0_9_T_0| true))
+((|memory_model::choice_rf_1_33_2_35_T_1| false))
+((|memory_model::choice_rf_1_3_0_25_F_58| false))
+((|memory_model::choice_rf_1_4_0_22_F_45| true))
+((|memory_model::choice_rf_1_5_0_21_F_43| true))
+((|memory_model::choice_rf_1_5_0_53_F_44| false))
+((|memory_model::choice_rf_1_6_0_30_F_87| true))
+((|memory_model::choice_rf_1_6_0_55_F_88| false))
+((|memory_model::choice_rf_1_6_2_17_F_89| false))
+((|memory_model::choice_rf_1_6_2_30_F_90| false))
+((|memory_model::choice_rf_1_7_0_29_F_72| true))
+((|memory_model::choice_rf_1_7_2_12_F_73| false))
+((|memory_model::choice_rf_2_1_0_31_F_111| false))
+((|memory_model::choice_rf_2_1_1_15_F_112| true))
+((|memory_model::choice_rf_2_20_0_18_F_38| false))
+((|memory_model::choice_rf_2_20_0_56_F_39| false))
+((|memory_model::choice_rf_2_20_1_30_F_40| false))
+((|memory_model::choice_rf_2_20_2_13_F_41| true))
+((|memory_model::choice_rf_2_21_0_31_F_113| false))
+((|memory_model::choice_rf_2_21_1_15_F_114| false))
+((|memory_model::choice_rf_2_21_2_11_F_115| true))
+((|memory_model::choice_rf_2_22_0_26_F_66| false))
+((|memory_model::choice_rf_2_22_1_9_F_67| false))
+((|memory_model::choice_rf_2_22_2_8_F_68| true))
+((|memory_model::choice_rf_2_23_0_32_F_130| false))
+((|memory_model::choice_rf_2_23_0_54_F_131| false))
+((|memory_model::choice_rf_2_23_1_13_F_132| false))
+((|memory_model::choice_rf_2_23_1_28_F_133| false))
+((|memory_model::choice_rf_2_23_2_10_F_134| true))
+((|memory_model::choice_rf_2_24_0_29_F_79| false))
+((|memory_model::choice_rf_2_24_1_14_F_80| false))
+((|memory_model::choice_rf_2_24_2_12_F_81| true))
+((|memory_model::choice_rf_2_25_0_23_F_52| false))
+((|memory_model::choice_rf_2_25_2_9_F_53| true))
+((|memory_model::choice_rf_2_26_0_30_F_100| false))
+((|memory_model::choice_rf_2_26_0_55_F_101| false))
+((|memory_model::choice_rf_2_26_1_12_F_102| false))
+((|memory_model::choice_rf_2_26_1_29_F_103| false))
+((|memory_model::choice_rf_2_26_2_17_F_104| true))
+((|memory_model::choice_rf_2_2_0_29_F_77| false))
+((|memory_model::choice_rf_2_2_1_14_F_78| true))
+((|memory_model::choice_rf_2_32_0_10_F_13| true))
+((|memory_model::choice_rf_2_32_1_32_F_14| false))
+((|memory_model::choice_rf_2_34_0_9_T_2| true))
+((|memory_model::choice_rf_2_34_1_34_T_3| false))
+((|memory_model::choice_rf_2_3_0_26_F_64| false))
+((|memory_model::choice_rf_2_3_1_9_F_65| true))
+((|memory_model::choice_rf_2_4_0_32_F_126| false))
+((|memory_model::choice_rf_2_4_0_54_F_127| false))
+((|memory_model::choice_rf_2_4_1_13_F_128| true))
+((|memory_model::choice_rf_2_4_1_28_F_129| false))
+((|memory_model::choice_rf_2_5_0_23_F_51| true))
+((|memory_model::choice_rf_2_6_0_30_F_96| false))
+((|memory_model::choice_rf_2_6_0_55_F_97| false))
+((|memory_model::choice_rf_2_6_1_12_F_98| true))
+((|memory_model::choice_rf_2_6_1_29_F_99| false))
+((|memory_model::choice_rf_2_7_0_18_F_35| true))
+((|memory_model::choice_rf_2_7_0_56_F_36| false))
+((|memory_model::choice_rf_2_7_1_30_F_37| false))
+((|memory_model::choice_ws-ext_0_10_1_32_F_139| true))
+((|memory_model::choice_ws-ext_0_10_2_33_F_140| true))
+((|memory_model::choice_ws-ext_0_11_1_18_F_142| true))
+((|memory_model::choice_ws-ext_0_12_2_14_F_143| true))
+((|memory_model::choice_ws-ext_0_15_2_19_F_197| true))
+((|memory_model::choice_ws-ext_0_16_2_18_F_198| true))
+((|memory_model::choice_ws-ext_0_17_2_0_F_138| true))
+((|memory_model::choice_ws-ext_0_18_1_30_F_144| true))
+((|memory_model::choice_ws-ext_0_18_2_13_F_145| true))
+((|memory_model::choice_ws-ext_0_18_2_31_F_146| true))
+((|memory_model::choice_ws-ext_0_19_2_16_F_152| true))
+((|memory_model::choice_ws-ext_0_20_2_15_F_153| true))
+((|memory_model::choice_ws-ext_0_22_1_27_F_155| true))
+((|memory_model::choice_ws-ext_0_22_1_8_F_154| true))
+((|memory_model::choice_ws-ext_0_23_2_28_F_157| true))
+((|memory_model::choice_ws-ext_0_23_2_9_F_156| true))
+((|memory_model::choice_ws-ext_0_24_1_11_F_158| true))
+((|memory_model::choice_ws-ext_0_25_1_10_F_160| true))
+((|memory_model::choice_ws-ext_0_25_1_26_F_161| true))
+((|memory_model::choice_ws-ext_0_26_1_9_F_162| true))
+((|memory_model::choice_ws-ext_0_26_2_27_F_164| true))
+((|memory_model::choice_ws-ext_0_26_2_8_F_163| true))
+((|memory_model::choice_ws-ext_0_29_1_14_F_167| true))
+((|memory_model::choice_ws-ext_0_29_2_12_F_168| true))
+((|memory_model::choice_ws-ext_0_30_1_12_F_170| true))
+((|memory_model::choice_ws-ext_0_30_1_29_F_171| true))
+((|memory_model::choice_ws-ext_0_30_2_17_F_172| true))
+((|memory_model::choice_ws-ext_0_30_2_30_F_173| true))
+((|memory_model::choice_ws-ext_0_31_1_15_F_182| true))
+((|memory_model::choice_ws-ext_0_31_2_11_F_183| true))
+((|memory_model::choice_ws-ext_0_32_1_13_F_185| true))
+((|memory_model::choice_ws-ext_0_32_1_28_F_186| true))
+((|memory_model::choice_ws-ext_0_32_2_10_F_187| true))
+((|memory_model::choice_ws-ext_0_32_2_29_F_188| true))
+((|memory_model::choice_ws-ext_0_52_1_11_F_159| false))
+((|memory_model::choice_ws-ext_0_54_1_13_F_189| false))
+((|memory_model::choice_ws-ext_0_54_1_28_F_190| false))
+((|memory_model::choice_ws-ext_0_54_2_10_F_191| false))
+((|memory_model::choice_ws-ext_0_54_2_29_F_192| false))
+((|memory_model::choice_ws-ext_0_55_1_12_F_174| false))
+((|memory_model::choice_ws-ext_0_55_1_29_F_175| false))
+((|memory_model::choice_ws-ext_0_55_2_17_F_176| false))
+((|memory_model::choice_ws-ext_0_55_2_30_F_177| false))
+((|memory_model::choice_ws-ext_0_56_1_30_F_147| false))
+((|memory_model::choice_ws-ext_0_56_2_13_F_148| false))
+((|memory_model::choice_ws-ext_0_56_2_31_F_149| false))
+((|memory_model::choice_ws-ext_0_9_1_34_T_135| true))
+((|memory_model::choice_ws-ext_0_9_2_35_T_136| true))
+((|memory_model::choice_ws-ext_1_12_2_17_F_178| true))
+((|memory_model::choice_ws-ext_1_12_2_30_F_179| true))
+((|memory_model::choice_ws-ext_1_13_2_10_F_193| true))
+((|memory_model::choice_ws-ext_1_13_2_29_F_194| true))
+((|memory_model::choice_ws-ext_1_14_2_12_F_169| true))
+((|memory_model::choice_ws-ext_1_15_2_11_F_184| true))
+((|memory_model::choice_ws-ext_1_28_2_10_F_195| false))
+((|memory_model::choice_ws-ext_1_28_2_29_F_196| false))
+((|memory_model::choice_ws-ext_1_29_2_17_F_180| false))
+((|memory_model::choice_ws-ext_1_29_2_30_F_181| false))
+((|memory_model::choice_ws-ext_1_30_2_13_F_150| false))
+((|memory_model::choice_ws-ext_1_30_2_31_F_151| false))
+((|memory_model::choice_ws-ext_1_32_2_33_F_141| false))
+((|memory_model::choice_ws-ext_1_34_2_35_T_137| false))
+((|memory_model::choice_ws-ext_1_9_2_27_F_166| true))
+((|memory_model::choice_ws-ext_1_9_2_8_F_165| true))
+((|nondet_symex::nondet0| #x00000000))
+((|nondet_symex::nondet1| #x00000000))
+((|nondet_symex::nondet2| #xffffffff))
+((|nondet_symex::nondet3| #x00000000))
+((|pthread_create#return_value!0#1| #x00000000))
+((|pthread_create#return_value!0#2| #x00000000))
+((|pthread_create#return_value!1#1| #x00000000))
+((|pthread_create#return_value!2#1| #x00000000))
+((|pthread_create::1::this_thread_id!0@1#1| #x00000000))
+((|pthread_create::1::this_thread_id!0@1#2| #x00000001))
+((|pthread_create::1::this_thread_id!0@2#1| #x00000000))
+((|pthread_create::1::this_thread_id!0@2#2| #x00000002))
+((|pthread_create::1::this_thread_id!1@0#0| #x00000000))
+((|pthread_create::1::this_thread_id!2@0#0| #x00000000))
+((|pthread_create::arg!0@1#1| #x00000000))
+((|pthread_create::arg!0@2#1| #x00000000))
+((|pthread_create::arg!1@0#1| #x00000000))
+((|pthread_create::arg!2@0#1| #x00000000))
+((|pthread_create::attr!0@1#1| #x00000000))
+((|pthread_create::attr!0@2#1| #x00000000))
+((|pthread_create::attr!1@0#1| #x00000000))
+((|pthread_create::attr!2@0#1| #x00000000))
+((|pthread_create::start_routine!0@1#1| #x03000000))
+((|pthread_create::start_routine!0@2#1| #x05000000))
+((|pthread_create::start_routine!1@0#1| #x03000000))
+((|pthread_create::start_routine!2@0#1| #x05000000))
+((|pthread_create::thread!0@1#1| #x02000000))
+((|pthread_create::thread!0@2#1| #x04000000))
+((|pthread_create::thread!1@0#1| #x02000000))
+((|pthread_create::thread!2@0#1| #x04000000))
+((|return'!0#1| #x00000000))
+((|t1$36$spwnclk$8| (- 15)))
+((|t1$41$spwnclk$8| (- 11)))
+((|weak$$choice0#1| #x00))
+((|weak$$choice0#1$wclk$8| (- 36)))
+((|weak$$choice0#2| #x00))
+((|weak$$choice0#2$wclk$8| (- 9)))
+((|weak$$choice2#1| #x00))
+((|weak$$choice2#1$wclk$8| (- 35)))
+((|weak$$choice2#2| #x01))
+((|weak$$choice2#2$wclk$8| (- 9)))
+((|x#1| #x00000000))
+((|x#1$wclk$8| (- 34)))
+((|x#2| #x00000000))
+((|x#2$rclk$8| (- 11)))
+((|x#3| #x00000000))
+((|x#4| #x00000001))
+((|x#4$wclk$8| (- 10)))
+((|y#1| #x00000000))
+((|y#1$wclk$8| (- 33)))
+((|y#10| #x00000000))
+((|y#10$rclk$8| (- 9)))
+((|y#11| #x00000000))
+((|y#12| #x00000000))
+((|y#13| #x00000000))
+((|y#13$wclk$8| (- 9)))
+((|y#14| #x00000000))
+((|y#14$rclk$8| (- 8)))
+((|y#15| #x00000000))
+((|y#16| #x00000000))
+((|y#16$wclk$8| (- 8)))
+((|y#2| #x00000001))
+((|y#2$rclk$8| (- 3)))
+((|y#3| #x00000001))
+((|y#4| #x00000001))
+((|y#5| #x00000001))
+((|y#5$wclk$8| (- 3)))
+((|y#6| #x00000000))
+((|y#6$rclk$8| (- 7)))
+((|y#7| #x00000000))
+((|y#8| #x00000001))
+((|y#9| #x00000001))
+((|y#9$wclk$8| (- 7)))
+((|y$flush_delayed#1| #x00))
+((|y$flush_delayed#1$wclk$8| (- 32)))
+((|y$flush_delayed#2| #x01))
+((|y$flush_delayed#3| #x00))
+((|y$flush_delayed#3$wclk$8| (- 9)))
+((|y$mem_tmp#1| #x00000000))
+((|y$mem_tmp#1$wclk$8| (- 31)))
+((|y$mem_tmp#2| #x00000000))
+((|y$mem_tmp#2$wclk$8| (- 9)))
+((|y$r_buff0_thd0#1| #x00))
+((|y$r_buff0_thd0#1$wclk$8| (- 30)))
+((|y$r_buff0_thd0#10| #x00))
+((|y$r_buff0_thd0#10$wclk$8| (- 3)))
+((|y$r_buff0_thd0#11| #x00))
+((|y$r_buff0_thd0#11$rclk$8| (- 12)))
+((|y$r_buff0_thd0#12| #x00))
+((|y$r_buff0_thd0#2| #x00))
+((|y$r_buff0_thd0#2$rclk$8| (- 3)))
+((|y$r_buff0_thd0#3| #x00))
+((|y$r_buff0_thd0#4| #x00))
+((|y$r_buff0_thd0#5| #x00))
+((|y$r_buff0_thd0#6| #x00))
+((|y$r_buff0_thd0#7| #x00))
+((|y$r_buff0_thd0#8| #x00))
+((|y$r_buff0_thd0#9| #x00))
+((|y$r_buff0_thd1#1| #x00))
+((|y$r_buff0_thd1#1$wclk$8| (- 29)))
+((|y$r_buff0_thd1#10| #x01))
+((|y$r_buff0_thd1#11| #x01))
+((|y$r_buff0_thd1#12| #x01))
+((|y$r_buff0_thd1#13| #x01))
+((|y$r_buff0_thd1#14| #x01))
+((|y$r_buff0_thd1#14$wclk$8| (- 7)))
+((|y$r_buff0_thd1#2| #x00))
+((|y$r_buff0_thd1#2$rclk$8| (- 12)))
+((|y$r_buff0_thd1#3| #x00))
+((|y$r_buff0_thd1#4| #x01))
+((|y$r_buff0_thd1#5| #x01))
+((|y$r_buff0_thd1#5$wclk$8| (- 12)))
+((|y$r_buff0_thd1#6| #x01))
+((|y$r_buff0_thd1#6$rclk$8| (- 7)))
+((|y$r_buff0_thd1#7| #x01))
+((|y$r_buff0_thd1#8| #x01))
+((|y$r_buff0_thd1#9| #x01))
+((|y$r_buff0_thd2#1| #x00))
+((|y$r_buff0_thd2#1$wclk$8| (- 28)))
+((|y$r_buff0_thd2#2| #x00))
+((|y$r_buff0_thd2#2$rclk$8| (- 12)))
+((|y$r_buff0_thd2#3| #x00))
+((|y$r_buff0_thd2#4| #x00))
+((|y$r_buff0_thd2#4$rclk$8| (- 9)))
+((|y$r_buff0_thd2#5| #x00))
+((|y$r_buff0_thd2#6| #x00))
+((|y$r_buff0_thd2#6$wclk$8| (- 9)))
+((|y$r_buff0_thd2#7| #x00))
+((|y$r_buff0_thd2#7$rclk$8| (- 8)))
+((|y$r_buff0_thd2#8| #x00))
+((|y$r_buff0_thd2#9| #x00))
+((|y$r_buff0_thd2#9$wclk$8| (- 8)))
+((|y$r_buff1_thd0#1| #x00))
+((|y$r_buff1_thd0#1$wclk$8| (- 27)))
+((|y$r_buff1_thd0#10| #x00))
+((|y$r_buff1_thd0#10$rclk$8| (- 12)))
+((|y$r_buff1_thd0#11| #x00))
+((|y$r_buff1_thd0#11$wclk$8| (- 12)))
+((|y$r_buff1_thd0#2| #x00))
+((|y$r_buff1_thd0#2$rclk$8| (- 3)))
+((|y$r_buff1_thd0#3| #x00))
+((|y$r_buff1_thd0#4| #x00))
+((|y$r_buff1_thd0#5| #x00))
+((|y$r_buff1_thd0#6| #x00))
+((|y$r_buff1_thd0#7| #x00))
+((|y$r_buff1_thd0#8| #x00))
+((|y$r_buff1_thd0#8$wclk$8| (- 3)))
+((|y$r_buff1_thd0#9| #x00))
+((|y$r_buff1_thd1#1| #x00))
+((|y$r_buff1_thd1#1$wclk$8| (- 26)))
+((|y$r_buff1_thd1#10| #x00))
+((|y$r_buff1_thd1#11| #x00))
+((|y$r_buff1_thd1#11$wclk$8| (- 7)))
+((|y$r_buff1_thd1#2| #x00))
+((|y$r_buff1_thd1#3| #xff))
+((|y$r_buff1_thd1#3$rclk$8| (- 12)))
+((|y$r_buff1_thd1#4| #x00))
+((|y$r_buff1_thd1#4$wclk$8| (- 12)))
+((|y$r_buff1_thd1#5| #x00))
+((|y$r_buff1_thd1#5$rclk$8| (- 7)))
+((|y$r_buff1_thd1#6| #x00))
+((|y$r_buff1_thd1#7| #x00))
+((|y$r_buff1_thd1#8| #x00))
+((|y$r_buff1_thd1#9| #x00))
+((|y$r_buff1_thd2#1| #x00))
+((|y$r_buff1_thd2#1$wclk$8| (- 25)))
+((|y$r_buff1_thd2#10| #x00))
+((|y$r_buff1_thd2#10$wclk$8| (- 8)))
+((|y$r_buff1_thd2#2| #x00))
+((|y$r_buff1_thd2#3| #x00))
+((|y$r_buff1_thd2#3$rclk$8| (- 12)))
+((|y$r_buff1_thd2#4| #x00))
+((|y$r_buff1_thd2#4$wclk$8| (- 12)))
+((|y$r_buff1_thd2#5| #x00))
+((|y$r_buff1_thd2#5$rclk$8| (- 9)))
+((|y$r_buff1_thd2#6| #x00))
+((|y$r_buff1_thd2#7| #x00))
+((|y$r_buff1_thd2#7$wclk$8| (- 9)))
+((|y$r_buff1_thd2#8| #x00))
+((|y$r_buff1_thd2#8$rclk$8| (- 8)))
+((|y$r_buff1_thd2#9| #x00))
+((|y$read_delayed#1| #x00))
+((|y$read_delayed#1$wclk$8| (- 24)))
+((|y$read_delayed_var#1| #x00000000))
+((|y$read_delayed_var#1$wclk$8| (- 23)))
+((|y$w_buff0#1| #x00000000))
+((|y$w_buff0#1$wclk$8| (- 22)))
+((|y$w_buff0#10| #x00000001))
+((|y$w_buff0#11| #x00000001))
+((|y$w_buff0#11$wclk$8| (- 9)))
+((|y$w_buff0#12| #x00000001))
+((|y$w_buff0#12$rclk$8| (- 8)))
+((|y$w_buff0#13| #x00000001))
+((|y$w_buff0#2| #x00000001))
+((|y$w_buff0#2$rclk$8| (- 3)))
+((|y$w_buff0#3| #x00000001))
+((|y$w_buff0#4| #x00000000))
+((|y$w_buff0#4$rclk$8| (- 12)))
+((|y$w_buff0#5| #x00000000))
+((|y$w_buff0#6| #x00000001))
+((|y$w_buff0#6$wclk$8| (- 12)))
+((|y$w_buff0#7| #x00000001))
+((|y$w_buff0#7$rclk$8| (- 7)))
+((|y$w_buff0#8| #x00000001))
+((|y$w_buff0#9| #x00000001))
+((|y$w_buff0#9$rclk$8| (- 9)))
+((|y$w_buff0_used#1| #x00))
+((|y$w_buff0_used#1$wclk$8| (- 21)))
+((|y$w_buff0_used#10| #x00))
+((|y$w_buff0_used#10$wclk$8| (- 3)))
+((|y$w_buff0_used#11| #x00))
+((|y$w_buff0_used#11$rclk$8| (- 12)))
+((|y$w_buff0_used#12| #x00))
+((|y$w_buff0_used#13| #x01))
+((|y$w_buff0_used#13$wclk$8| (- 12)))
+((|y$w_buff0_used#14| #x01))
+((|y$w_buff0_used#14$rclk$8| (- 7)))
+((|y$w_buff0_used#15| #x01))
+((|y$w_buff0_used#16| #x01))
+((|y$w_buff0_used#17| #x01))
+((|y$w_buff0_used#18| #x00))
+((|y$w_buff0_used#19| #x00))
+((|y$w_buff0_used#2| #x00))
+((|y$w_buff0_used#2$rclk$8| (- 3)))
+((|y$w_buff0_used#20| #x00))
+((|y$w_buff0_used#21| #x00))
+((|y$w_buff0_used#22| #x00))
+((|y$w_buff0_used#22$wclk$8| (- 7)))
+((|y$w_buff0_used#23| #x01))
+((|y$w_buff0_used#23$rclk$8| (- 9)))
+((|y$w_buff0_used#24| #x01))
+((|y$w_buff0_used#25| #x01))
+((|y$w_buff0_used#25$wclk$8| (- 9)))
+((|y$w_buff0_used#26| #x01))
+((|y$w_buff0_used#26$rclk$8| (- 8)))
+((|y$w_buff0_used#27| #x01))
+((|y$w_buff0_used#28| #x01))
+((|y$w_buff0_used#28$wclk$8| (- 8)))
+((|y$w_buff0_used#3| #x00))
+((|y$w_buff0_used#4| #x00))
+((|y$w_buff0_used#5| #x00))
+((|y$w_buff0_used#6| #x00))
+((|y$w_buff0_used#7| #x00))
+((|y$w_buff0_used#8| #x00))
+((|y$w_buff0_used#9| #x00))
+((|y$w_buff1#1| #x00000000))
+((|y$w_buff1#1$wclk$8| (- 20)))
+((|y$w_buff1#10| #x00000000))
+((|y$w_buff1#10$rclk$8| (- 8)))
+((|y$w_buff1#11| #x00000000))
+((|y$w_buff1#2| #x00000000))
+((|y$w_buff1#2$rclk$8| (- 3)))
+((|y$w_buff1#3| #x00000000))
+((|y$w_buff1#4| #x00000000))
+((|y$w_buff1#4$wclk$8| (- 12)))
+((|y$w_buff1#5| #x00000000))
+((|y$w_buff1#5$rclk$8| (- 7)))
+((|y$w_buff1#6| #x00000000))
+((|y$w_buff1#7| #x00000000))
+((|y$w_buff1#7$rclk$8| (- 9)))
+((|y$w_buff1#8| #x00000000))
+((|y$w_buff1#9| #x00000000))
+((|y$w_buff1#9$wclk$8| (- 9)))
+((|y$w_buff1_used#1| #x00))
+((|y$w_buff1_used#1$wclk$8| (- 19)))
+((|y$w_buff1_used#10| #x00))
+((|y$w_buff1_used#10$rclk$8| (- 7)))
+((|y$w_buff1_used#11| #x00))
+((|y$w_buff1_used#12| #x00))
+((|y$w_buff1_used#13| #x00))
+((|y$w_buff1_used#14| #x00))
+((|y$w_buff1_used#15| #x00))
+((|y$w_buff1_used#16| #x00))
+((|y$w_buff1_used#16$wclk$8| (- 7)))
+((|y$w_buff1_used#17| #x00))
+((|y$w_buff1_used#17$rclk$8| (- 9)))
+((|y$w_buff1_used#18| #x00))
+((|y$w_buff1_used#19| #x00))
+((|y$w_buff1_used#19$wclk$8| (- 9)))
+((|y$w_buff1_used#2| #x00))
+((|y$w_buff1_used#2$rclk$8| (- 3)))
+((|y$w_buff1_used#20| #x00))
+((|y$w_buff1_used#20$rclk$8| (- 8)))
+((|y$w_buff1_used#21| #x00))
+((|y$w_buff1_used#22| #x00))
+((|y$w_buff1_used#22$wclk$8| (- 8)))
+((|y$w_buff1_used#3| #x00))
+((|y$w_buff1_used#4| #x00))
+((|y$w_buff1_used#5| #x00))
+((|y$w_buff1_used#6| #x00))
+((|y$w_buff1_used#7| #x00))
+((|y$w_buff1_used#8| #x00))
+((|y$w_buff1_used#8$wclk$8| (- 3)))
+((|y$w_buff1_used#9| #x00))
+((|y$w_buff1_used#9$wclk$8| (- 12)))
+(model 
+  (define-fun |memory_model::choice_rf_1_21_2_29_F_125| () Bool
+    true)
+  (define-fun |y$w_buff0#9| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$w_buff0_used#1$wclk$8| () Int
+    (- 21))
+  (define-fun |memory_model::choice_rf_2_6_1_29_F_99| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_17_2_0_F_138| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_22_2_12_F_76| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_23_0_32_F_130| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_54_1_13_F_189| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_4_0_54_F_127| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_1_29_2_17_F_180| () Bool
+    false)
+  (define-fun |y$r_buff1_thd1#1$wclk$8| () Int
+    (- 26))
+  (define-fun |memory_model::choice_rf_0_48_1_13_F_117| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_46_0_31_F_105| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_59_1_18_F_16| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_19_0_18_F_31| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_7_0_56_F_36| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_20_2_15_F_153| () Bool
+    true)
+  (define-fun |y$w_buff0_used#11| () (_ BitVec 8)
+    #x00)
+  (define-fun |memory_model::choice_rf_0_51_1_12_F_83| () Bool
+    false)
+  (define-fun |main$tmp_guard0#3$rclk$8| () Int
+    (- 4))
+  (define-fun |y$flush_delayed#1$wclk$8| () Int
+    (- 32))
+  (define-fun t1$36$spwnclk$8 () Int
+    (- 15))
+  (define-fun |y$read_delayed_var#1$wclk$8| () Int
+    (- 23))
+  (define-fun |memory_model::choice_rf_2_21_0_31_F_113| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_24_1_11_F_158| () Bool
+    true)
+  (define-fun |main$tmp_guard1#5$rclk$8| () Int
+    (- 1))
+  (define-fun |memory_model::choice_rf_0_48_1_28_F_118| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_6_2_30_F_90| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_33_0_9_T_0| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_9_2_35_T_136| () Bool
+    true)
+  (define-fun |__unbuffered_cnt#7$wclk$8| () Int
+    (- 6))
+  (define-fun |memory_model::choice_rf_0_45_2_31_F_30| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_46_1_15_F_106| () Bool
+    false)
+  (define-fun |y#2| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |memory_model::choice_rf_1_7_2_12_F_73| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_34_0_9_T_2| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_11_1_18_F_142| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_18_1_30_F_144| () Bool
+    true)
+  (define-fun |y$w_buff1#4$wclk$8| () Int
+    (- 12))
+  (define-fun |__CPROVER_threads_exited#3$wclk$8| () Int
+    (- 3))
+  (define-fun |memory_model::choice_rf_2_20_2_13_F_41| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_6_0_30_F_96| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_7_0_18_F_35| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_62_0_14_F_25| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_25_2_17_F_94| () Bool
+    false)
+  (define-fun |x#1$wclk$8| () Int
+    (- 34))
+  (define-fun |main::1::t1561!0@1#1$wclk$8| () Int
+    (- 18))
+  (define-fun |main::1::t1562!0@1#2$wclk$8| () Int
+    (- 12))
+  (define-fun |__unbuffered_p1_EAX#1$wclk$8| () Int
+    (- 39))
+  (define-fun |memory_model::choice_rf_2_23_1_28_F_133| () Bool
+    false)
+  (define-fun t1$41$spwnclk$8 () Int
+    (- 11))
+  (define-fun |memory_model::choice_rf_1_20_2_11_F_110| () Bool
+    true)
+  (define-fun |__unbuffered_cnt#2| () (_ BitVec 32)
+    #x00000002)
+  (define-fun |memory_model::choice_ws-ext_0_15_2_19_F_197| () Bool
+    true)
+  (define-fun |__CPROVER_threads_exited#4| () (Array (_ BitVec 32) Bool)
+    ((as const (Array (_ BitVec 32) Bool)) false))
+  (define-fun |memory_model::choice_rf_2_2_1_14_F_78| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_22_1_14_F_75| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_19_2_16_F_152| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_29_2_12_F_168| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_54_2_29_F_192| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_33_2_35_T_1| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_55_2_17_F_176| () Bool
+    false)
+  (define-fun |__unbuffered_cnt#8| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff1#7| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y#6| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |memory_model::choice_rf_1_21_0_54_F_122| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_12_2_14_F_143| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_23_1_10_F_60| () Bool
+    true)
+  (define-fun |y$w_buff1#1$wclk$8| () Int
+    (- 20))
+  (define-fun |memory_model::choice_ws-ext_1_29_2_30_F_181| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_25_0_55_F_92| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_24_1_8_F_47| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_47_1_11_F_55| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_1_9_2_8_F_165| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_32_1_28_F_186| () Bool
+    true)
+  (define-fun |__CPROVER_threads_exited#1$wclk$8| () Int
+    (- 42))
+  (define-fun |memory_model::choice_rf_2_23_1_13_F_132| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_23_0_54_F_131| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_32_1_13_F_185| () Bool
+    true)
+  (define-fun |__CPROVER_threads_exited#2$rclk$8| () Int
+    (- 5))
+  (define-fun |memory_model::choice_rf_2_22_1_9_F_67| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_55_2_30_F_177| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_61_0_14_F_23| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_25_2_9_F_53| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_56_2_31_F_149| () Bool
+    false)
+  (define-fun |y#9$wclk$8| () Int
+    (- 7))
+  (define-fun |memory_model::choice_rf_2_26_0_55_F_101| () Bool
+    false)
+  (define-fun |__CPROVER_next_thread_id#5$wclk$8| () Int
+    (- 13))
+  (define-fun |main$tmp_guard0#1$wclk$8| () Int
+    (- 38))
+  (define-fun |y#5$wclk$8| () Int
+    (- 3))
+  (define-fun |memory_model::choice_ws-ext_0_9_1_34_T_135| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_20_0_31_F_108| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_7_1_30_F_37| () Bool
+    false)
+  (define-fun |__CPROVER_threads_exited#2| () (Array (_ BitVec 32) Bool)
+    ((as const (Array (_ BitVec 32) Bool)) false))
+  (define-fun |y$w_buff0_used#14| () (_ BitVec 8)
+    #x01)
+  (define-fun |memory_model::choice_rf_1_21_1_13_F_123| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_1_12_2_17_F_178| () Bool
+    true)
+  (define-fun |y$r_buff1_thd0#2| () (_ BitVec 8)
+    #x00)
+  (define-fun |memory_model::choice_rf_1_19_2_13_F_33| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_20_0_18_F_38| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_22_1_27_F_155| () Bool
+    true)
+  (define-fun |y$w_buff0#1$wclk$8| () Int
+    (- 22))
+  (define-fun |memory_model::choice_ws-ext_0_23_2_28_F_157| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_18_2_31_F_146| () Bool
+    true)
+  (define-fun |pthread_create::1::this_thread_id!1@0#0| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |memory_model::choice_ws-ext_0_56_2_13_F_148| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_42_1_32_F_9| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_5_0_21_F_43| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_26_2_8_F_163| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_21_1_15_F_114| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_54_1_28_F_190| () Bool
+    false)
+  (define-fun |__unbuffered_cnt#4| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$r_buff0_thd1#6| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$r_buff0_thd0#1$wclk$8| () Int
+    (- 30))
+  (define-fun |memory_model::choice_rf_2_1_1_15_F_112| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_51_0_30_F_82| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_21_2_10_F_124| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_1_0_31_F_111| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_6_0_55_F_88| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_48_2_10_F_119| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_44_0_43_F_21| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_1_30_2_31_F_151| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_31_0_10_F_11| () Bool
+    false)
+  (define-fun |__CPROVER_next_thread_id#2$wclk$8| () Int
+    (- 17))
+  (define-fun |memory_model::choice_rf_2_26_0_30_F_100| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_1_9_2_27_F_166| () Bool
+    true)
+  (define-fun |y#14| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff1_thd2#1$wclk$8| () Int
+    (- 25))
+  (define-fun |memory_model::choice_rf_2_20_0_56_F_39| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_6_0_30_F_87| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_22_2_8_F_68| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_22_1_8_F_154| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_26_2_17_F_104| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_32_0_10_F_13| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_45_2_13_F_29| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_24_0_22_F_46| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_26_1_29_F_103| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_0_2_9_F_49| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_4_1_13_F_128| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_0_2_28_F_50| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_1_13_2_29_F_194| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_52_1_11_F_159| () Bool
+    false)
+  (define-fun |main::1::t1562!0@1#1$wclk$8| () Int
+    (- 14))
+  (define-fun |y$w_buff1_used#1$wclk$8| () Int
+    (- 19))
+  (define-fun |y$w_buff1_used#2| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0#12| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |memory_model::choice_rf_0_46_2_11_F_107| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_20_1_30_F_40| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_30_1_29_F_171| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_18_2_13_F_145| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_30_2_17_F_172| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_1_14_2_12_F_169| () Bool
+    true)
+  (define-fun |y$w_buff0#2| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |memory_model::choice_rf_2_21_2_11_F_115| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_7_0_29_F_72| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_25_0_23_F_52| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_20_1_15_F_109| () Bool
+    false)
+  (define-fun |y$w_buff0#4| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |memory_model::choice_rf_0_51_1_29_F_84| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_32_2_10_F_187| () Bool
+    true)
+  (define-fun |y$r_buff1_thd2#5| () (_ BitVec 8)
+    #x00)
+  (define-fun |memory_model::choice_rf_2_32_1_32_F_14| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_16_2_18_F_198| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_25_0_30_F_91| () Bool
+    false)
+  (define-fun |__unbuffered_p0_EAX#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__unbuffered_cnt#1$wclk$8| () Int
+    (- 41))
+  (define-fun |y$w_buff0_used#26| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$r_buff0_thd0#11| () (_ BitVec 8)
+    #x00)
+  (define-fun |memory_model::choice_rf_1_21_0_32_F_121| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_58_2_14_F_19| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_17_2_0_F_7| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_31_2_11_F_183| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_24_0_29_F_79| () Bool
+    false)
+  (define-fun |main::1::t1561!0@1#2$wclk$8| () Int
+    (- 16))
+  (define-fun |memory_model::choice_rf_2_6_1_12_F_98| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_25_1_26_F_161| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_47_0_24_F_54| () Bool
+    false)
+  (define-fun |y$r_buff0_thd1#1$wclk$8| () Int
+    (- 29))
+  (define-fun |y$w_buff1_used#17| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1#10| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::1::this_thread_id!2@0#0| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__unbuffered_p0_EAX#1$wclk$8| () Int
+    (- 40))
+  (define-fun |main$tmp_guard1#5| () (_ BitVec 8)
+    #x00)
+  (define-fun |memory_model::choice_rf_1_4_0_22_F_45| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_49_1_14_F_70| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_2_0_29_F_77| () Bool
+    false)
+  (define-fun |y$w_buff1_used#20| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff0_used#23| () (_ BitVec 8)
+    #x01)
+  (define-fun |memory_model::choice_rf_0_38_0_7_T_4| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_3_0_26_F_64| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_22_0_26_F_66| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_26_2_27_F_164| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_6_0_55_F_97| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_55_1_12_F_174| () Bool
+    false)
+  (define-fun |weak$$choice2#1$wclk$8| () Int
+    (- 35))
+  (define-fun |memory_model::choice_ws-ext_1_34_2_35_T_137| () Bool
+    false)
+  (define-fun |y#10| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |memory_model::choice_rf_0_59_0_11_F_15| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_24_2_12_F_81| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_55_1_29_F_175| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_10_1_32_F_139| () Bool
+    true)
+  (define-fun |y$w_buff1_used#10| () (_ BitVec 8)
+    #x00)
+  (define-fun |memory_model::choice_ws-ext_0_10_2_33_F_140| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_4_1_28_F_129| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_5_0_53_F_44| () Bool
+    false)
+  (define-fun |__unbuffered_cnt#10$wclk$8| () Int
+    (- 7))
+  (define-fun |y$r_buff0_thd1#2| () (_ BitVec 8)
+    #x00)
+  (define-fun array_of.0 () (Array (_ BitVec 32) Bool)
+    ((as const (Array (_ BitVec 32) Bool)) false))
+  (define-fun |main$tmp_guard0#2$wclk$8| () Int
+    (- 5))
+  (define-fun |y$r_buff0_thd2#1$wclk$8| () Int
+    (- 28))
+  (define-fun |memory_model::choice_rf_1_17_0_17_F_6| () Bool
+    true)
+  (define-fun |y$mem_tmp#1$wclk$8| () Int
+    (- 31))
+  (define-fun |memory_model::choice_ws-ext_0_26_1_9_F_162| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_34_1_34_T_3| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_54_2_10_F_191| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_1_28_2_29_F_196| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_6_2_17_F_89| () Bool
+    false)
+  (define-fun |x#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |memory_model::choice_rf_1_31_2_33_F_12| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_48_0_32_F_116| () Bool
+    false)
+  (define-fun |y$r_buff1_thd0#1$wclk$8| () Int
+    (- 27))
+  (define-fun |memory_model::choice_rf_0_49_0_29_F_69| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_51_2_17_F_85| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_44_0_13_F_20| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_26_1_12_F_102| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_30_1_12_F_170| () Bool
+    true)
+  (define-fun |main$tmp_guard1#6$rclk$8| () Int
+    0)
+  (define-fun |memory_model::choice_ws-ext_0_25_1_10_F_160| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_0_0_23_F_48| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_49_2_12_F_71| () Bool
+    true)
+  (define-fun |main$tmp_guard1#1$wclk$8| () Int
+    (- 37))
+  (define-fun |memory_model::choice_ws-ext_0_29_1_14_F_167| () Bool
+    true)
+  (define-fun |y#16$wclk$8| () Int
+    (- 8))
+  (define-fun |memory_model::choice_rf_0_51_2_30_F_86| () Bool
+    false)
+  (define-fun |y$r_buff0_thd2#2| () (_ BitVec 8)
+    #x00)
+  (define-fun |memory_model::choice_rf_1_19_0_56_F_32| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_1_32_2_33_F_141| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_25_1_12_F_93| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_50_0_21_F_42| () Bool
+    true)
+  (define-fun |__unbuffered_p0_EAX#6$wclk$8| () Int
+    (- 11))
+  (define-fun |y$w_buff1#5| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |memory_model::choice_ws-ext_0_32_2_29_F_188| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_31_1_15_F_182| () Bool
+    true)
+  (define-fun |y$r_buff1_thd1#5| () (_ BitVec 8)
+    #x00)
+  (define-fun |memory_model::choice_ws-ext_0_30_2_30_F_173| () Bool
+    true)
+  (define-fun |y$read_delayed#1$wclk$8| () Int
+    (- 24))
+  (define-fun |x#4$wclk$8| () Int
+    (- 10))
+  (define-fun |memory_model::choice_rf_1_25_2_30_F_95| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_1_13_2_10_F_193| () Bool
+    true)
+  (define-fun |main$tmp_guard1#4$wclk$8| () Int
+    (- 2))
+  (define-fun |main$tmp_guard0#3| () (_ BitVec 8)
+    #x01)
+  (define-fun |memory_model::choice_rf_0_61_0_60_F_24| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_4_0_32_F_126| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_2_24_1_14_F_80| () Bool
+    false)
+  (define-fun |__CPROVER_threads_exited#5$wclk$8| () Int
+    (- 4))
+  (define-fun |memory_model::choice_rf_0_58_0_12_F_18| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_42_2_33_F_10| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_23_0_25_F_59| () Bool
+    false)
+  (define-fun |y$w_buff0_used#2| () (_ BitVec 8)
+    #x00)
+  (define-fun |__CPROVER_next_thread_id#3| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |weak$$choice0#1$wclk$8| () Int
+    (- 36))
+  (define-fun |memory_model::choice_rf_0_62_0_60_F_26| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_45_1_30_F_28| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_56_1_30_F_147| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_1_12_2_30_F_179| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_38_0_34_T_5| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_45_0_18_F_27| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_0_42_0_10_F_8| () Bool
+    false)
+  (define-fun |__CPROVER_threads_exited#4$rclk$8| () Int
+    (- 6))
+  (define-fun |__unbuffered_p1_EAX#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff0#7| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$r_buff1_thd2#8| () (_ BitVec 8)
+    #x00)
+  (define-fun |memory_model::choice_rf_2_3_1_9_F_65| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_2_23_2_10_F_134| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_1_30_2_13_F_150| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_19_2_31_F_34| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_0_48_2_29_F_120| () Bool
+    false)
+  (define-fun |weak$$choice0#2$wclk$8| () Int
+    (- 9))
+  (define-fun |memory_model::choice_ws-ext_1_28_2_10_F_195| () Bool
+    false)
+  (define-fun |y#1$wclk$8| () Int
+    (- 33))
+  (define-fun |memory_model::choice_rf_1_22_0_29_F_74| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_1_15_2_11_F_184| () Bool
+    true)
+  (define-fun |memory_model::choice_ws-ext_0_23_2_9_F_156| () Bool
+    true)
+  (define-fun |main$tmp_guard1#6| () (_ BitVec 8)
+    #x00)
+  (define-fun |__CPROVER_pipe_count#1$wclk$8| () Int
+    (- 43))
+  (define-fun |__CPROVER_next_thread_id#1$wclk$8| () Int
+    (- 44))
+  (define-fun |__CPROVER_memory_leak#1$wclk$8| () Int
+    (- 45))
+  (define-fun |__CPROVER_malloc_size#1$wclk$8| () Int
+    (- 46))
+  (define-fun |__CPROVER_malloc_object#1$wclk$8| () Int
+    (- 47))
+  (define-fun |__CPROVER_malloc_is_new_array#1$wclk$8| () Int
+    (- 48))
+  (define-fun |__CPROVER_deallocated#1$wclk$8| () Int
+    (- 49))
+  (define-fun |__CPROVER_dead_object#1$wclk$8| () Int
+    (- 50))
+  (define-fun |main::1::t1562!0@1$wclk$8| () Int
+    (- 51))
+  (define-fun |memory_model::choice_rf_1_2_2_27_F_63| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_2_2_8_F_62| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_2_0_26_F_61| () Bool
+    false)
+  (define-fun |y$r_buff1_thd1#3| () (_ BitVec 8)
+    #xff)
+  (define-fun |memory_model::choice_rf_1_3_0_25_F_58| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_1_0_52_F_57| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_1_0_24_F_56| () Bool
+    false)
+  (define-fun |y$r_buff0_thd0#2| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd2#7| () (_ BitVec 8)
+    #x00)
+  (define-fun |nondet_symex::nondet2| () (_ BitVec 32)
+    #xffffffff)
+  (define-fun |main$tmp_guard1#3| () (_ BitVec 8)
+    #xff)
+  (define-fun |memory_model::choice_rf_0_57_0_14_F_22| () Bool
+    false)
+  (define-fun |__unbuffered_p0_EAX#5| () (_ BitVec 32)
+    #xffffffff)
+  (define-fun |memory_model::choice_rf_1_16_0_11_F_17| () Bool
+    false)
+  (define-fun |__unbuffered_cnt#8$rclk$8| () Int
+    (- 7))
+  (define-fun |y#14$rclk$8| () Int
+    (- 8))
+  (define-fun |y$w_buff1#10$rclk$8| () Int
+    (- 8))
+  (define-fun |y$r_buff1_thd2#8$rclk$8| () Int
+    (- 8))
+  (define-fun |y$w_buff1_used#20$rclk$8| () Int
+    (- 8))
+  (define-fun |y$w_buff0#12$rclk$8| () Int
+    (- 8))
+  (define-fun |y$r_buff0_thd2#7$rclk$8| () Int
+    (- 8))
+  (define-fun |y$w_buff0_used#26$rclk$8| () Int
+    (- 8))
+  (define-fun |y$r_buff1_thd2#10$wclk$8| () Int
+    (- 8))
+  (define-fun |y$r_buff0_thd2#9$wclk$8| () Int
+    (- 8))
+  (define-fun |y$w_buff1_used#22$wclk$8| () Int
+    (- 8))
+  (define-fun |y$w_buff0_used#28$wclk$8| () Int
+    (- 8))
+  (define-fun |y$w_buff1#7$rclk$8| () Int
+    (- 9))
+  (define-fun |y$w_buff0#9$rclk$8| () Int
+    (- 9))
+  (define-fun |y$r_buff1_thd2#5$rclk$8| () Int
+    (- 9))
+  (define-fun |y$w_buff1_used#17$rclk$8| () Int
+    (- 9))
+  (define-fun |y$r_buff0_thd2#4$rclk$8| () Int
+    (- 9))
+  (define-fun |y$w_buff0_used#23$rclk$8| () Int
+    (- 9))
+  (define-fun |y#10$rclk$8| () Int
+    (- 9))
+  (define-fun |y$r_buff1_thd2#7$wclk$8| () Int
+    (- 9))
+  (define-fun |y$r_buff0_thd2#6$wclk$8| () Int
+    (- 9))
+  (define-fun |y$w_buff1_used#19$wclk$8| () Int
+    (- 9))
+  (define-fun |y$w_buff1#9$wclk$8| () Int
+    (- 9))
+  (define-fun |y$w_buff0#11$wclk$8| () Int
+    (- 9))
+  (define-fun |y#13$wclk$8| () Int
+    (- 9))
+  (define-fun |__unbuffered_p1_EAX#4$wclk$8| () Int
+    (- 9))
+  (define-fun |y$mem_tmp#2$wclk$8| () Int
+    (- 9))
+  (define-fun |y$flush_delayed#3$wclk$8| () Int
+    (- 9))
+  (define-fun |y$w_buff0_used#25$wclk$8| () Int
+    (- 9))
+  (define-fun |weak$$choice2#2$wclk$8| () Int
+    (- 9))
+  (define-fun |__unbuffered_cnt#4$rclk$8| () Int
+    (- 6))
+  (define-fun |y#6$rclk$8| () Int
+    (- 7))
+  (define-fun |y$w_buff1#5$rclk$8| () Int
+    (- 7))
+  (define-fun |y$w_buff1_used#10$rclk$8| () Int
+    (- 7))
+  (define-fun |y$w_buff0#7$rclk$8| () Int
+    (- 7))
+  (define-fun |y$r_buff1_thd1#5$rclk$8| () Int
+    (- 7))
+  (define-fun |y$r_buff0_thd1#6$rclk$8| () Int
+    (- 7))
+  (define-fun |y$w_buff0_used#14$rclk$8| () Int
+    (- 7))
+  (define-fun |y$r_buff1_thd1#11$wclk$8| () Int
+    (- 7))
+  (define-fun |y$r_buff0_thd1#14$wclk$8| () Int
+    (- 7))
+  (define-fun |y$w_buff1_used#16$wclk$8| () Int
+    (- 7))
+  (define-fun |y$w_buff0_used#22$wclk$8| () Int
+    (- 7))
+  (define-fun |__unbuffered_p0_EAX#5$rclk$8| () Int
+    (- 11))
+  (define-fun |x#2$rclk$8| () Int
+    (- 11))
+  (define-fun |y$r_buff0_thd2#2$rclk$8| () Int
+    (- 12))
+  (define-fun |y$r_buff1_thd0#10$rclk$8| () Int
+    (- 12))
+  (define-fun |y$r_buff1_thd2#3$rclk$8| () Int
+    (- 12))
+  (define-fun |y$r_buff1_thd1#3$rclk$8| () Int
+    (- 12))
+  (define-fun |y$r_buff0_thd1#2$rclk$8| () Int
+    (- 12))
+  (define-fun |y$r_buff0_thd0#11$rclk$8| () Int
+    (- 12))
+  (define-fun |y$w_buff0_used#11$rclk$8| () Int
+    (- 12))
+  (define-fun |y$w_buff0#4$rclk$8| () Int
+    (- 12))
+  (define-fun |y$r_buff0_thd1#5$wclk$8| () Int
+    (- 12))
+  (define-fun |y$r_buff1_thd2#4$wclk$8| () Int
+    (- 12))
+  (define-fun |y$r_buff1_thd1#4$wclk$8| () Int
+    (- 12))
+  (define-fun |y$r_buff1_thd0#11$wclk$8| () Int
+    (- 12))
+  (define-fun |y$w_buff0_used#13$wclk$8| () Int
+    (- 12))
+  (define-fun |y$w_buff1_used#9$wclk$8| () Int
+    (- 12))
+  (define-fun |y$w_buff0#6$wclk$8| () Int
+    (- 12))
+  (define-fun |main$tmp_guard1#3$rclk$8| () Int
+    (- 2))
+  (define-fun |__unbuffered_p1_EAX#2$rclk$8| () Int
+    (- 2))
+  (define-fun |__unbuffered_p0_EAX#2$rclk$8| () Int
+    (- 2))
+  (define-fun |y#2$rclk$8| () Int
+    (- 3))
+  (define-fun |y$w_buff1#2$rclk$8| () Int
+    (- 3))
+  (define-fun |y$r_buff1_thd0#2$rclk$8| () Int
+    (- 3))
+  (define-fun |y$w_buff1_used#2$rclk$8| () Int
+    (- 3))
+  (define-fun |y$w_buff0#2$rclk$8| () Int
+    (- 3))
+  (define-fun |y$r_buff0_thd0#2$rclk$8| () Int
+    (- 3))
+  (define-fun |y$w_buff0_used#2$rclk$8| () Int
+    (- 3))
+  (define-fun |y$r_buff1_thd0#8$wclk$8| () Int
+    (- 3))
+  (define-fun |y$r_buff0_thd0#10$wclk$8| () Int
+    (- 3))
+  (define-fun |y$w_buff1_used#8$wclk$8| () Int
+    (- 3))
+  (define-fun |y$w_buff0_used#10$wclk$8| () Int
+    (- 3))
+  (define-fun |__unbuffered_cnt#2$rclk$8| () Int
+    (- 5))
+  (define-fun |__CPROVER_next_thread_id#3$rclk$8| () Int
+    (- 13))
+  (define-fun |memory_model::choice_rf_2_5_0_23_F_51| () Bool
+    true)
+  (define-fun |y$r_buff0_thd2#4| () (_ BitVec 8)
+    #x00)
+  (define-fun |__unbuffered_cnt#6| () (_ BitVec 32)
+    #x00000002)
+  (define-fun |y$r_buff1_thd1#10| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd1#12| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$w_buff1_used#14| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#18| () (_ BitVec 8)
+    #x00)
+  (define-fun |y#8| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |__unbuffered_p0_EAX#4| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff0_thd1#4| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$r_buff1_thd2#2| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd1#2| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd0#9| () (_ BitVec 8)
+    #x00)
+  (define-fun |goto_symex::&92;guard#2| () Bool
+    false)
+  (define-fun |goto_symex::&92;guard#1| () Bool
+    true)
+  (define-fun |main$tmp_guard1#2| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd0#7| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd0#8| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#6| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#6| () (_ BitVec 8)
+    #x00)
+  (define-fun |y#4| () (_ BitVec 32)
+    #x00000001)
+  (define-fun B171 () Bool
+    true)
+  (define-fun B170 () Bool
+    false)
+  (define-fun B169 () Bool
+    true)
+  (define-fun B168 () Bool
+    false)
+  (define-fun |P1::$tmp::return_value___VERIFIER_nondet_pointer$3!2@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun B167 () Bool
+    true)
+  (define-fun |P1::$tmp::return_value___VERIFIER_nondet_pointer$2!2@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun B166 () Bool
+    true)
+  (define-fun |P1::$tmp::return_value___VERIFIER_nondet_pointer$1!2@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun B165 () Bool
+    true)
+  (define-fun |P0::$tmp::return_value___VERIFIER_nondet_pointer$1!1@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun B164 () Bool
+    true)
+  (define-fun |pthread_create::1::this_thread_id!0@2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun B163 () Bool
+    true)
+  (define-fun |main::1::t1562!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun B162 () Bool
+    true)
+  (define-fun |pthread_create::1::this_thread_id!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun B161 () Bool
+    true)
+  (define-fun |main::1::t1561!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun B160 () Bool
+    true)
+  (define-fun |__CPROVER_threads_exited#5| () (Array (_ BitVec 32) Bool)
+    (store ((as const (Array (_ BitVec 32) Bool)) false) #x00000000 true))
+  (define-fun |nondet_symex::nondet3| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |P1#return_value!2#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |P1::$tmp::return_value___VERIFIER_nondet_pointer$3!2@1#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__unbuffered_cnt#10| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |__unbuffered_cnt#9| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff1_thd2#10| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd2#9| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#22| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#28| () (_ BitVec 8)
+    #x01)
+  (define-fun |y#16| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y#15| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff1#11| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff1_thd2#9| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#21| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0#13| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$r_buff0_thd2#8| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#27| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$flush_delayed#3| () (_ BitVec 8)
+    #x00)
+  (define-fun |y#13| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__unbuffered_p1_EAX#4| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff1_thd2#7| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd2#6| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#19| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#25| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$w_buff1#9| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff0#11| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y#12| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff1#8| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff0#10| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$r_buff1_thd2#6| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#18| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd2#5| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#24| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$mem_tmp#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y#11| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$flush_delayed#2| () (_ BitVec 8)
+    #x01)
+  (define-fun |weak$$choice2#2| () (_ BitVec 8)
+    #x01)
+  (define-fun |P1::$tmp::return_value___VERIFIER_nondet_pointer$2!2@1#2| () (_ BitVec 32)
+    #xffffffff)
+  (define-fun |nondet_symex::nondet1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |weak$$choice0#2| () (_ BitVec 8)
+    #x00)
+  (define-fun |P1::$tmp::return_value___VERIFIER_nondet_pointer$1!2@1#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |x#4| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |P1::arg!2@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_thread_id!2#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_threads_exited#3| () (Array (_ BitVec 32) Bool)
+    (store ((as const (Array (_ BitVec 32) Bool)) false) #x00000000 true))
+  (define-fun |nondet_symex::nondet0| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |P0#return_value!1#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |P0::$tmp::return_value___VERIFIER_nondet_pointer$1!1@1#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__unbuffered_cnt#7| () (_ BitVec 32)
+    #x00000002)
+  (define-fun |__unbuffered_cnt#5| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$r_buff1_thd1#11| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd1#9| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd1#8| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#16| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd1#14| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$w_buff0_used#22| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd1#13| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$r_buff0_thd1#11| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$r_buff0_thd1#10| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$w_buff0_used#21| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#15| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#13| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd1#7| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#12| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd1#9| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$w_buff0_used#20| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#19| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#17| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$r_buff0_thd1#8| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$w_buff0_used#16| () (_ BitVec 8)
+    #x01)
+  (define-fun |y#9| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y#7| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff1#6| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff1_thd1#6| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#11| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0#8| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$r_buff0_thd1#7| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$w_buff0_used#15| () (_ BitVec 8)
+    #x01)
+  (define-fun |__unbuffered_p0_EAX#6| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |x#3| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff0_thd1#5| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$r_buff1_thd2#4| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd2#3| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd1#4| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd1#3| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd0#11| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd0#12| () (_ BitVec 8)
+    #x00)
+  (define-fun |__VERIFIER_assert::expression!1@1#1| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$w_buff0_used#13| () (_ BitVec 8)
+    #x01)
+  (define-fun |y$w_buff1_used#9| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#12| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0#6| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$w_buff1#4| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff0#5| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |P0::arg!1@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_thread_id!1#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |return'!0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |main#return_value!0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__VERIFIER_assert::expression!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |main$tmp_guard1#4| () (_ BitVec 8)
+    #x00)
+  (define-fun |__unbuffered_p1_EAX#3| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__unbuffered_p0_EAX#3| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff1_thd0#8| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd0#6| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd0#5| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#8| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd0#10| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#10| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd0#9| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd0#7| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd0#6| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#9| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#7| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#5| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd0#4| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#4| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd0#5| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#8| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#7| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#5| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd0#4| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#4| () (_ BitVec 8)
+    #x00)
+  (define-fun |y#5| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y#3| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$w_buff1#3| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff1_thd0#3| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1_used#3| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0#3| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |y$r_buff0_thd0#3| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0_used#3| () (_ BitVec 8)
+    #x00)
+  (define-fun |main$tmp_guard0#2| () (_ BitVec 8)
+    #x01)
+  (define-fun |__unbuffered_cnt#3| () (_ BitVec 32)
+    #x00000002)
+  (define-fun |pthread_create#return_value!0#2| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |main#return_value!2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_thread_id!2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_rounding_mode!2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create#return_value!2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |P1#return_value!2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |P0#return_value!2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__VERIFIER_nondet_pointer#return_value!2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::arg!2@0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::start_routine!2@0#1| () (_ BitVec 32)
+    #x05000000)
+  (define-fun |pthread_create::attr!2@0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::thread!2@0#1| () (_ BitVec 32)
+    #x04000000)
+  (define-fun |main::1::t1562!0@1#2| () (_ BitVec 32)
+    #x00000002)
+  (define-fun |pthread_create::1::this_thread_id!0@2#2| () (_ BitVec 32)
+    #x00000002)
+  (define-fun |__CPROVER_next_thread_id#5| () (_ BitVec 32)
+    #x00000002)
+  (define-fun |__CPROVER_next_thread_id#4| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |pthread_create::arg!0@2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::start_routine!0@2#1| () (_ BitVec 32)
+    #x05000000)
+  (define-fun |pthread_create::attr!0@2#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::thread!0@2#1| () (_ BitVec 32)
+    #x04000000)
+  (define-fun |pthread_create#return_value!0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |main#return_value!1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_thread_id!1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_rounding_mode!1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create#return_value!1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |P1#return_value!1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |P0#return_value!1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__VERIFIER_nondet_pointer#return_value!1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::arg!1@0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::start_routine!1@0#1| () (_ BitVec 32)
+    #x03000000)
+  (define-fun |pthread_create::attr!1@0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::thread!1@0#1| () (_ BitVec 32)
+    #x02000000)
+  (define-fun |main::1::t1561!0@1#2| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |pthread_create::1::this_thread_id!0@1#2| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |__CPROVER_next_thread_id#2| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |pthread_create::arg!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::start_routine!0@1#1| () (_ BitVec 32)
+    #x03000000)
+  (define-fun |pthread_create::attr!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::thread!0@1#1| () (_ BitVec 32)
+    #x02000000)
+  (define-fun |y$w_buff1_used#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$w_buff0_used#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$w_buff0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$read_delayed_var#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$read_delayed#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd2#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd1#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd0#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd2#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd1#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff0_thd0#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$mem_tmp#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$flush_delayed#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |y#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |x#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |weak$$choice2#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |weak$$choice0#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |main$tmp_guard1#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |main$tmp_guard0#1| () (_ BitVec 8)
+    #x00)
+  (define-fun |__unbuffered_p1_EAX#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__unbuffered_p0_EAX#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__unbuffered_cnt#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_threads_exited#1| () (Array (_ BitVec 32) Bool)
+    ((as const (Array (_ BitVec 32) Bool)) false))
+  (define-fun |__CPROVER_thread_id!0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_rounding_mode!0#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_pipe_count#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_next_thread_id#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_memory_leak#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_malloc_size#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_malloc_object#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_malloc_is_new_array#1| () Bool
+    false)
+  (define-fun |__CPROVER_deallocated#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_dead_object#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun B159 () Bool
+    true)
+  (define-fun B158 () Bool
+    true)
+  (define-fun B157 () Bool
+    true)
+  (define-fun B156 () Bool
+    true)
+  (define-fun B155 () Bool
+    true)
+  (define-fun B154 () Bool
+    true)
+  (define-fun B153 () Bool
+    true)
+  (define-fun B152 () Bool
+    true)
+  (define-fun B151 () Bool
+    true)
+  (define-fun B150 () Bool
+    true)
+  (define-fun B149 () Bool
+    true)
+  (define-fun B148 () Bool
+    true)
+  (define-fun B147 () Bool
+    true)
+  (define-fun B146 () Bool
+    true)
+  (define-fun B145 () Bool
+    true)
+  (define-fun B144 () Bool
+    true)
+  (define-fun B143 () Bool
+    true)
+  (define-fun B142 () Bool
+    true)
+  (define-fun B141 () Bool
+    true)
+  (define-fun B140 () Bool
+    true)
+  (define-fun B139 () Bool
+    true)
+  (define-fun B138 () Bool
+    true)
+  (define-fun B137 () Bool
+    true)
+  (define-fun B136 () Bool
+    true)
+  (define-fun B135 () Bool
+    true)
+  (define-fun B134 () Bool
+    true)
+  (define-fun B133 () Bool
+    true)
+  (define-fun B132 () Bool
+    true)
+  (define-fun B131 () Bool
+    true)
+  (define-fun B130 () Bool
+    true)
+  (define-fun B129 () Bool
+    true)
+  (define-fun B128 () Bool
+    true)
+  (define-fun B127 () Bool
+    true)
+  (define-fun B126 () Bool
+    true)
+  (define-fun B125 () Bool
+    true)
+  (define-fun B124 () Bool
+    true)
+  (define-fun B123 () Bool
+    true)
+  (define-fun B122 () Bool
+    true)
+  (define-fun B121 () Bool
+    true)
+  (define-fun B120 () Bool
+    true)
+  (define-fun B119 () Bool
+    true)
+  (define-fun B118 () Bool
+    true)
+  (define-fun B117 () Bool
+    true)
+  (define-fun B116 () Bool
+    true)
+  (define-fun B115 () Bool
+    true)
+  (define-fun B114 () Bool
+    true)
+  (define-fun B113 () Bool
+    true)
+  (define-fun B112 () Bool
+    true)
+  (define-fun B111 () Bool
+    true)
+  (define-fun B110 () Bool
+    true)
+  (define-fun B109 () Bool
+    true)
+  (define-fun B108 () Bool
+    true)
+  (define-fun B107 () Bool
+    true)
+  (define-fun B106 () Bool
+    true)
+  (define-fun B105 () Bool
+    true)
+  (define-fun B104 () Bool
+    true)
+  (define-fun B103 () Bool
+    true)
+  (define-fun B102 () Bool
+    true)
+  (define-fun B101 () Bool
+    true)
+  (define-fun B100 () Bool
+    true)
+  (define-fun B99 () Bool
+    true)
+  (define-fun B98 () Bool
+    true)
+  (define-fun B97 () Bool
+    true)
+  (define-fun B96 () Bool
+    true)
+  (define-fun B95 () Bool
+    true)
+  (define-fun B94 () Bool
+    true)
+  (define-fun B93 () Bool
+    true)
+  (define-fun B92 () Bool
+    true)
+  (define-fun B91 () Bool
+    true)
+  (define-fun B90 () Bool
+    true)
+  (define-fun B89 () Bool
+    true)
+  (define-fun B88 () Bool
+    true)
+  (define-fun B87 () Bool
+    true)
+  (define-fun B86 () Bool
+    true)
+  (define-fun B85 () Bool
+    true)
+  (define-fun B84 () Bool
+    true)
+  (define-fun B83 () Bool
+    true)
+  (define-fun B82 () Bool
+    true)
+  (define-fun B81 () Bool
+    true)
+  (define-fun B80 () Bool
+    true)
+  (define-fun B79 () Bool
+    true)
+  (define-fun B78 () Bool
+    true)
+  (define-fun B77 () Bool
+    true)
+  (define-fun B76 () Bool
+    true)
+  (define-fun B75 () Bool
+    true)
+  (define-fun B74 () Bool
+    true)
+  (define-fun B73 () Bool
+    true)
+  (define-fun B72 () Bool
+    true)
+  (define-fun B71 () Bool
+    true)
+  (define-fun B70 () Bool
+    false)
+  (define-fun B69 () Bool
+    false)
+  (define-fun B68 () Bool
+    false)
+  (define-fun B67 () Bool
+    false)
+  (define-fun B66 () Bool
+    false)
+  (define-fun B65 () Bool
+    false)
+  (define-fun B64 () Bool
+    false)
+  (define-fun B63 () Bool
+    true)
+  (define-fun B62 () Bool
+    true)
+  (define-fun B61 () Bool
+    true)
+  (define-fun B60 () Bool
+    true)
+  (define-fun B59 () Bool
+    true)
+  (define-fun B58 () Bool
+    true)
+  (define-fun B57 () Bool
+    true)
+  (define-fun B56 () Bool
+    true)
+  (define-fun B55 () Bool
+    true)
+  (define-fun B54 () Bool
+    true)
+  (define-fun B53 () Bool
+    true)
+  (define-fun B52 () Bool
+    false)
+  (define-fun B51 () Bool
+    true)
+  (define-fun B50 () Bool
+    true)
+  (define-fun B49 () Bool
+    true)
+  (define-fun B48 () Bool
+    true)
+  (define-fun B47 () Bool
+    true)
+  (define-fun B46 () Bool
+    true)
+  (define-fun B45 () Bool
+    true)
+  (define-fun B44 () Bool
+    true)
+  (define-fun B43 () Bool
+    true)
+  (define-fun B42 () Bool
+    true)
+  (define-fun B41 () Bool
+    true)
+  (define-fun B40 () Bool
+    true)
+  (define-fun B39 () Bool
+    true)
+  (define-fun B38 () Bool
+    true)
+  (define-fun B37 () Bool
+    true)
+  (define-fun B36 () Bool
+    true)
+  (define-fun B35 () Bool
+    true)
+  (define-fun B34 () Bool
+    true)
+  (define-fun B33 () Bool
+    true)
+  (define-fun B32 () Bool
+    true)
+  (define-fun B31 () Bool
+    true)
+  (define-fun B30 () Bool
+    true)
+  (define-fun B29 () Bool
+    true)
+  (define-fun B28 () Bool
+    true)
+  (define-fun B27 () Bool
+    true)
+  (define-fun B26 () Bool
+    true)
+  (define-fun B25 () Bool
+    true)
+  (define-fun B24 () Bool
+    true)
+  (define-fun B23 () Bool
+    true)
+  (define-fun B22 () Bool
+    true)
+  (define-fun B21 () Bool
+    true)
+  (define-fun B20 () Bool
+    true)
+  (define-fun B19 () Bool
+    true)
+  (define-fun B18 () Bool
+    true)
+  (define-fun B17 () Bool
+    true)
+  (define-fun B16 () Bool
+    true)
+  (define-fun B15 () Bool
+    true)
+  (define-fun B14 () Bool
+    true)
+  (define-fun B13 () Bool
+    true)
+  (define-fun B12 () Bool
+    true)
+  (define-fun B11 () Bool
+    true)
+  (define-fun B10 () Bool
+    true)
+  (define-fun B9 () Bool
+    true)
+  (define-fun B8 () Bool
+    true)
+  (define-fun B7 () Bool
+    true)
+  (define-fun B6 () Bool
+    true)
+  (define-fun B5 () Bool
+    true)
+  (define-fun B4 () Bool
+    true)
+  (define-fun B3 () Bool
+    true)
+  (define-fun B2 () Bool
+    true)
+  (define-fun B1 () Bool
+    true)
+  (define-fun B0 () Bool
+    true)
+  (define-fun |main::1::t1561!0@1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |main::1::t1562!0@1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |y$r_buff1_thd0#10| () (_ BitVec 8)
+    #x00)
+  (define-fun |y$r_buff1_thd2#3| () (_ BitVec 8)
+    #x00)
+)
+(:added-eqs                      1129
+ :arith-bound-propagations-cheap 44
+ :arith-bound-propagations-lp    143
+ :arith-conflicts                1
+ :arith-lower                    107
+ :arith-make-feasible            36
+ :arith-max-columns              187
+ :arith-max-rows                 133
+ :arith-propagations             44
+ :arith-upper                    100
+ :array-ax1                      2
+ :array-def-store                1
+ :binary-propagations            1214
+ :bv-bit2core                    2667
+ :bv-diseqs                      2
+ :bv-dynamic-diseqs              13
+ :bv->core-eq                    18
+ :conflicts                      20
+ :decisions                      271
+ :del-clause                     153
+ :eliminated-applications        33
+ :eliminated-vars                96
+ :final-checks                   2
+ :max-memory                     5.82
+ :memory                         3.92
+ :minimized-lits                 40
+ :mk-bool-var                    1735
+ :mk-clause                      813
+ :num-allocs                     3604368
+ :num-checks                     1
+ :propagations                   1868
+ :rlimit-count                   1008954
+ :time                           0.02
+ :total-time                     0.10)
+
+real	0m0.105s
+user	0m0.101s
+sys	0m0.003s
+State: AC Run_time: 0.10637235641479492

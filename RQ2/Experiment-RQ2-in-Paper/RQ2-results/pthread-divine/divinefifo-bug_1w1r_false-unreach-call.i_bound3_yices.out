@@ -1,0 +1,6 @@
+(error "at line 7339, column 14: invalid symbol")
+
+real	0m0.037s
+user	0m0.033s
+sys	0m0.003s
+State: AC Run_time: 0.03872036933898926

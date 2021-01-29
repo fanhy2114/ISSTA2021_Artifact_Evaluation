@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-complex/safestack_relacy_false-unreach-call.i/bound2.smt:6465.53: Unexpected token: '<<EOF>>'.")
+
+real	0m0.433s
+user	0m0.426s
+sys	0m0.007s
+State: RE Run_time: 0.43537449836730957

@@ -1,0 +1,6 @@
+(error "at line 9927, column 42: in concat: argument is not a bit-vector term")
+
+real	0m0.040s
+user	0m0.040s
+sys	0m0.000s
+State: AC Run_time: 0.04210329055786133

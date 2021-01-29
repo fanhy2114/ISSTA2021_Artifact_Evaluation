@@ -1,0 +1,9 @@
+num of guard = 78
+num of elim = 29
+num of guard = 78
+num of elim = 0
+
+real	30m0.015s
+user	29m55.744s
+sys	0m0.150s
+State: TO Run_time: 1800.0174596309662

@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-divine/condvar_true-unreach-call.i/bound6.smt:432:89: first argument of 'select' is not an array
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.001s
+State: RE Run_time: 0.005583524703979492

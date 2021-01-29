@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/ldv-races/race-4_2-thread_local_vars_false-unreach-call.i/bound5.smt:329419.1583: unterminated |quoted| symbol")
+
+real	0m48.192s
+user	0m47.992s
+sys	0m0.150s
+State: RE Run_time: 48.194130659103394

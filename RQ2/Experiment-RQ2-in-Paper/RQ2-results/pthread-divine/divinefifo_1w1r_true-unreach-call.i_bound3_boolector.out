@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-divine/divinefifo_1w1r_true-unreach-call.i/bound3.smt:7326:238: expected decimal constant but reached end-of-file
+
+real	0m0.074s
+user	0m0.073s
+sys	0m0.000s
+State: RE Run_time: 0.07565593719482422

@@ -1,0 +1,7 @@
+unsat
+(error "Cannot get model unless immediately preceded by SAT/NOT_ENTAILED or UNKNOWN response.")
+
+real	1m53.372s
+user	1m52.954s
+sys	0m0.177s
+State: AC Run_time: 113.37439608573914

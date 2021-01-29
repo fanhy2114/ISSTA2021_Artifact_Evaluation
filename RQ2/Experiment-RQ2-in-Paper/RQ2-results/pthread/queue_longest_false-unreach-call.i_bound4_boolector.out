@@ -1,0 +1,8 @@
+[btor>main] CAUGHT SIGNAL 11
+unknown
+timeout: the monitored command dumped core
+
+real	12m30.353s
+user	5m46.057s
+sys	2m22.499s
+State: RE Run_time: 750.3710527420044

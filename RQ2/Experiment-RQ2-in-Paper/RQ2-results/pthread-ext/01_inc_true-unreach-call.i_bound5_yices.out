@@ -1,0 +1,7 @@
+unsat
+(error "the context is unsatisfiable")
+
+real	0m13.283s
+user	0m13.255s
+sys	0m0.007s
+State: AC Run_time: 13.285374641418457

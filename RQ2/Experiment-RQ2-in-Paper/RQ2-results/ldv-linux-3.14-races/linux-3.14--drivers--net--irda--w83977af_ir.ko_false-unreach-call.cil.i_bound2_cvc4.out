@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/ldv-linux-3.14-races/linux-3.14--drivers--net--irda--w83977af_ir.ko_false-unreach-call.cil.i/bound2.smt:32572.14: unterminated |quoted| symbol")
+
+real	0m3.742s
+user	0m3.725s
+sys	0m0.014s
+State: RE Run_time: 3.744225025177002

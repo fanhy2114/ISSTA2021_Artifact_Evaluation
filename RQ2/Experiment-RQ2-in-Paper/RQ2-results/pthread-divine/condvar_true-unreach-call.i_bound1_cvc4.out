@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-divine/condvar_true-unreach-call.i/bound1.smt:187.104: array select operating on non-array")
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.000s
+State: RE Run_time: 0.011566162109375

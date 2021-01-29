@@ -1,0 +1,38 @@
+sat
+(= |goto_symex::&92;guard#1| false)
+(= |goto_symex::&92;guard#2| true)
+(= |goto_symex::&92;guard#3| false)
+(= |goto_symex::&92;guard#4| true)
+(= |memory_model::choice_rf_1_0_0_8_T_0| false)
+(= |memory_model::choice_ws-ext_0_8_1_1_T_1| true)
+(= |nondet_symex::nondet0| #b00000000000000000000000000000000)
+(= |nondet_symex::nondet1| #b10000000000000000000000000000000)
+(= |nondet_symex::nondet2| #b00000000000000000000000000000000)
+(= |__CPROVER_threads_exited#1$wclk$8| #b1000)
+(= |__CPROVER_threads_exited#2$rclk$8| #b1110)
+(= |__CPROVER_threads_exited#3$wclk$8| #b1111)
+(= t1$12$spwnclk$8 #b1101)
+(= |__CPROVER_dead_object#1$wclk$8| #b0000)
+(= |__CPROVER_deallocated#1$wclk$8| #b0001)
+(= |__CPROVER_malloc_is_new_array#1$wclk$8| #b0010)
+(= |__CPROVER_malloc_object#1$wclk$8| #b0011)
+(= |__CPROVER_malloc_size#1$wclk$8| #b0100)
+(= |__CPROVER_memory_leak#1$wclk$8| #b0101)
+(= |__CPROVER_next_thread_id#1$wclk$8| #b0110)
+(= |__CPROVER_pipe_count#1$wclk$8| #b0111)
+(= |main::1::t!0@1#1$wclk$8| #b1001)
+(= |__CPROVER_next_thread_id#2$wclk$8| #b1010)
+(= |main::1::t!0@1#2$wclk$8| #b1100)
+(= array_of.0 @fun_2)
+(= |__CPROVER_threads_exited#2| @fun_4)
+(function @fun_2
+ (type (Array (_ BitVec 32) (_ BitVec 1)))
+ (default #b0))
+(function @fun_4
+ (type (Array (_ BitVec 32) (_ BitVec 1)))
+ (default #b1))
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+State: AC Run_time: 0.0041773319244384766

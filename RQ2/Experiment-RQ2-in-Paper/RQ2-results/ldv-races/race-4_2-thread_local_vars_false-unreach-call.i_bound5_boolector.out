@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/ldv-races/race-4_2-thread_local_vars_false-unreach-call.i/bound5.smt:329419:1584: unexpected end-of-file in quoted symbol
+
+real	0m6.988s
+user	0m6.816s
+sys	0m0.166s
+State: RE Run_time: 6.989927291870117

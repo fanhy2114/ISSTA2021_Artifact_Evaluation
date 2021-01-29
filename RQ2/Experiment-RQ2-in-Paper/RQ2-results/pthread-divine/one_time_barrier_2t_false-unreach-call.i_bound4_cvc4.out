@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-divine/one_time_barrier_2t_false-unreach-call.i/bound4.smt:11552.3259: unterminated |quoted| symbol")
+
+real	0m1.048s
+user	0m1.045s
+sys	0m0.000s
+State: RE Run_time: 1.0499355792999268

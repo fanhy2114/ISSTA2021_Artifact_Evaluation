@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-divine/one_time_barrier_2t_false-unreach-call.i/bound4.smt:11552:3260: unexpected end-of-file in quoted symbol
+
+real	0m0.152s
+user	0m0.138s
+sys	0m0.010s
+State: RE Run_time: 0.15458321571350098

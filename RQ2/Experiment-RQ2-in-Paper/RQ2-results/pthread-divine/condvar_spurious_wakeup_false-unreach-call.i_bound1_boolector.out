@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-divine/condvar_spurious_wakeup_false-unreach-call.i/bound1.smt:179:89: first argument of 'select' is not an array
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+State: RE Run_time: 0.0034754276275634766

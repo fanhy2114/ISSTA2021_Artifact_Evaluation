@@ -1,0 +1,11 @@
+(error "line 858 column 209: invalid expression, unexpected input")
+(:max-memory  2.62
+ :memory      2.62
+ :mk-bool-var 1
+ :num-allocs  176919
+ :total-time  0.00)
+
+real	0m0.007s
+user	0m0.006s
+sys	0m0.001s
+State: RE Run_time: 0.008491039276123047

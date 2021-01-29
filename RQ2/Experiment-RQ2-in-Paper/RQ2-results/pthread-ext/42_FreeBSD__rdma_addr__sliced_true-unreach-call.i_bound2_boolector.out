@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-ext/42_FreeBSD__rdma_addr__sliced_true-unreach-call.i/bound2.smt:396209:1995: unexpected end-of-file in quoted symbol
+
+real	0m13.169s
+user	0m12.711s
+sys	0m0.186s
+State: RE Run_time: 13.170849561691284

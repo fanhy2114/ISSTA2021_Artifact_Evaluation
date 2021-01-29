@@ -1,0 +1,6 @@
+(error "at line 236, column 82: in store: argument is not a function")
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.001s
+State: AC Run_time: 0.0036253929138183594

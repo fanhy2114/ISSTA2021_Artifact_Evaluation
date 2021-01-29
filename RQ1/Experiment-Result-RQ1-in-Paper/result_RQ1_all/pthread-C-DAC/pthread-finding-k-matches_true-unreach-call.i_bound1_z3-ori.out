@@ -1,0 +1,12 @@
+(error "line 2225 column 19: invalid expression, unexpected input")
+(:max-memory   3.45
+ :memory       3.42
+ :mk-bool-var  1
+ :num-allocs   327315
+ :rlimit-count 9875
+ :total-time   0.01)
+
+real	0m0.012s
+user	0m0.012s
+sys	0m0.000s
+State: RE Run_time: 0.013650178909301758

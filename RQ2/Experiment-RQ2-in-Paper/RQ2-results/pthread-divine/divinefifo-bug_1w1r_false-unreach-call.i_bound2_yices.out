@@ -1,0 +1,6 @@
+(error "at line 3856, column 36: invalid symbol")
+
+real	0m0.010s
+user	0m0.010s
+sys	0m0.000s
+State: AC Run_time: 0.01176905632019043

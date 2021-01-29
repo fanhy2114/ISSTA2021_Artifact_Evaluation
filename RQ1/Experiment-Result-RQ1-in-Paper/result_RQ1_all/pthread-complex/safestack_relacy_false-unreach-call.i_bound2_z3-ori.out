@@ -1,0 +1,11 @@
+(:max-memory   3.34
+ :memory       3.34
+ :mk-bool-var  1
+ :num-allocs   276387
+ :rlimit-count 104
+ :total-time   0.04)
+
+real	0m0.042s
+user	0m0.038s
+sys	0m0.003s
+State: AC Run_time: 0.04353141784667969

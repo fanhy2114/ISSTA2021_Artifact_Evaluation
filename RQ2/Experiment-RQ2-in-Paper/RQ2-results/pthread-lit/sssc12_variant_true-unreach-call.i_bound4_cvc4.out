@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-lit/sssc12_variant_true-unreach-call.i/bound4.smt:7205.287: unterminated |quoted| symbol")
+
+real	0m0.082s
+user	0m0.082s
+sys	0m0.000s
+State: RE Run_time: 0.08421015739440918

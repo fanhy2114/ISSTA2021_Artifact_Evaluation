@@ -1,0 +1,12 @@
+(error "line 13366 column 1179: invalid expression, unexpected input")
+(:max-memory   5.34
+ :memory       5.34
+ :mk-bool-var  1
+ :num-allocs   4152458
+ :rlimit-count 16649
+ :total-time   0.12)
+
+real	0m0.125s
+user	0m0.115s
+sys	0m0.010s
+State: RE Run_time: 0.12661218643188477

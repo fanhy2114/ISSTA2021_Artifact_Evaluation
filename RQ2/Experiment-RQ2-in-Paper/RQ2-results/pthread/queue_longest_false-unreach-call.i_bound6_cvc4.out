@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread/queue_longest_false-unreach-call.i/bound6.smt:435028.233: Unexpected token: '<<EOF>>'.")
+
+real	0m23.511s
+user	0m23.372s
+sys	0m0.090s
+State: RE Run_time: 23.51315927505493

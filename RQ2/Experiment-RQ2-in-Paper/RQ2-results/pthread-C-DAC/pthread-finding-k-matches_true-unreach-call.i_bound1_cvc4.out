@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-C-DAC/pthread-finding-k-matches_true-unreach-call.i/bound1.smt:2226.19: Sequence terminated early by token: '<<EOF>>'.")
+
+real	0m0.049s
+user	0m0.049s
+sys	0m0.000s
+State: RE Run_time: 0.0513453483581543

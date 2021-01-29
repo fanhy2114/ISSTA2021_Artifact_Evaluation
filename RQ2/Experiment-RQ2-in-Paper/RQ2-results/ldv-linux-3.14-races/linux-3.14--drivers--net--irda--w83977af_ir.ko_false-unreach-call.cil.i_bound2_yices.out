@@ -1,0 +1,6 @@
+(error "at line 32572, column 15: invalid symbol")
+
+real	0m0.220s
+user	0m0.210s
+sys	0m0.010s
+State: AC Run_time: 0.22202420234680176

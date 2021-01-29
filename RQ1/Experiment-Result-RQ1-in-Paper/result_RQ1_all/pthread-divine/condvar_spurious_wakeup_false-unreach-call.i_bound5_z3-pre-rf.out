@@ -1,0 +1,373 @@
+(error "line 178 column 104: select requires 1 arguments, but was provided with 2 arguments")
+(error "line 209 column 117: select requires 1 arguments, but was provided with 2 arguments")
+(error "line 426 column 70: unknown constant cond#1")
+(error "line 438 column 71: unknown constant cond#2")
+num of guard = 1
+num of elim = 7
+num of guard = 1
+num of elim = 2
+sat
+((|B0| true))
+((|B1| true))
+((|B10| true))
+((|B11| true))
+((|B12| true))
+((|B13| true))
+((|B14| true))
+((|B15| true))
+((|B16| true))
+((|B17| true))
+((|B18| true))
+((|B19| true))
+((|B2| true))
+((|B20| true))
+((|B21| true))
+((|B22| false))
+((|B23| false))
+((|B24| false))
+((|B25| false))
+((|B26| false))
+((|B27| false))
+((|B28| false))
+((|B29| false))
+((|B3| true))
+((|B30| false))
+((|B31| false))
+((|B32| false))
+((|B33| false))
+((|B34| false))
+((|B35| false))
+((|B36| false))
+((|B37| false))
+((|B38| false))
+((|B39| false))
+((|B4| true))
+((|B40| false))
+((|B41| false))
+((|B42| true))
+((|B43| true))
+((|B44| true))
+((|B45| false))
+((|B46| true))
+((|B47| true))
+((|B48| false))
+((|B5| true))
+((|B6| true))
+((|B7| true))
+((|B8| true))
+((|B9| true))
+((|__CPROVER_dead_object#1| #x00000000))
+((|__CPROVER_dead_object#1$wclk$8| (- 24)))
+((|__CPROVER_deallocated#1| #x00000000))
+((|__CPROVER_deallocated#1$wclk$8| (- 23)))
+((|__CPROVER_malloc_is_new_array#1| false))
+((|__CPROVER_malloc_is_new_array#1$wclk$8| (- 22)))
+((|__CPROVER_malloc_object#1| #x00000000))
+((|__CPROVER_malloc_object#1$wclk$8| (- 21)))
+((|__CPROVER_malloc_size#1| #x00000000))
+((|__CPROVER_malloc_size#1$wclk$8| (- 20)))
+((|__CPROVER_memory_leak#1| #x00000000))
+((|__CPROVER_memory_leak#1$wclk$8| (- 19)))
+((|__CPROVER_next_thread_id#1| #x00000000))
+((|__CPROVER_next_thread_id#1$wclk$8| (- 18)))
+((|__CPROVER_next_thread_id#2| #x00000001))
+((|__CPROVER_next_thread_id#2$wclk$8| (- 9)))
+((|__CPROVER_pipe_count#1| #x00000000))
+((|__CPROVER_pipe_count#1$wclk$8| (- 17)))
+((|__CPROVER_rounding_mode!0#1| #x00000000))
+((|__CPROVER_rounding_mode!1#1| #x00000000))
+((|__CPROVER_thread_id!0#1| #x00000000))
+((|__CPROVER_thread_id!1#1| #x00000000))
+((|__CPROVER_thread_id!1#2| #x00000000))
+((|__CPROVER_threads_exited#1| ((as const (Array (_ BitVec 32) Bool)) false)))
+((|__CPROVER_threads_exited#1$wclk$8| (- 16)))
+((|__CPROVER_threads_exited#2| ((as const (Array (_ BitVec 32) Bool)) false)))
+((|__CPROVER_threads_exited#2$rclk$8| (- 2)))
+((|__CPROVER_threads_exited#3| (store ((as const (Array (_ BitVec 32) Bool)) false) #x00000000 true)))
+((|__CPROVER_threads_exited#3$wclk$8| (- 1)))
+((|cond| #x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000))
+(error "line 961 column 12: unknown constant cond#1")
+((|cond#1$wclk$8| (- 15)))
+(error "line 963 column 12: unknown constant cond#2")
+((|cond#2$wclk$8| (- 10)))
+((|cond#3| #x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff))
+((|cond#3$rclk$8| (- 5)))
+((|cond#4| #x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff))
+((|cond#5| #x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff))
+((|cond#6| #x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000fffffffe))
+((|cond#6$wclk$8| (- 5)))
+((|goto_symex::&92;guard#1| false))
+((|goto_symex::&92;guard#2| true))
+((|lock| #x000000000000000000000000000000000000000000000000))
+((|lock#1| #x000000000000000000000000000000000000000000000000))
+((|lock#1$wclk$8| (- 14)))
+((|lock#2| #x000000000000000000000000000000000000000000000000))
+((|lock#2$wclk$8| (- 11)))
+((|lock#3| #x000000000000000000000000000000000000000000000000))
+((|lock#3$rclk$8| (- 6)))
+((|lock#4| #x000000000000000000000000000000000000000000000000))
+((|lock#5| #x000000000000000000000000000000000000000000000001))
+((|lock#5$wclk$8| (- 6)))
+((|lock#6| #x000000000000000000000000000000000000000000000000))
+((|lock#6$rclk$8| (- 3)))
+((|lock#7| #x000000000000000000000000000000000000000000000000))
+((|lock#8| #x000000000000000000000000000000000000000000000000))
+((|lock#8$wclk$8| (- 3)))
+((|main#return_value!1#1| #x00000000))
+((|main::1::1::i!0@1#1| #x00000000))
+((|main::1::1::i!0@1#2| #x00000000))
+((|main::1::1::i!0@1#3| #x00000001))
+((|main::1::1::i!0@1#4| #x00000002))
+((|main::1::1::i!0@1#5| #x00000003))
+((|main::1::1::i!0@1#6| #x00000004))
+((|main::1::1::i!0@1#7| #x00000005))
+((|main::1::t!0@1| #x00000000))
+((|main::1::t!0@1#1| #x00000000))
+((|main::1::t!0@1#1$wclk$8| (- 12)))
+((|main::1::t!0@1#2| #x00000001))
+((|main::1::t!0@1#2$wclk$8| (- 8)))
+((|memory_model::choice_rf_1_0_0_10_F_9| false))
+((|memory_model::choice_rf_1_0_0_13_F_10| true))
+((|memory_model::choice_rf_1_2_0_14_F_1| true))
+((|memory_model::choice_rf_1_2_0_9_F_0| false))
+((|memory_model::choice_rf_1_4_0_11_F_3| true))
+((|memory_model::choice_rf_1_4_0_18_F_4| false))
+((|memory_model::choice_rf_1_4_0_19_F_5| false))
+((|memory_model::choice_rf_1_4_0_20_F_6| false))
+((|memory_model::choice_rf_1_4_0_21_F_7| false))
+((|memory_model::choice_rf_1_4_0_22_F_8| false))
+((|memory_model::choice_rf_1_5_0_10_F_11| false))
+((|memory_model::choice_rf_1_5_0_13_F_12| false))
+((|memory_model::choice_rf_1_5_1_1_F_13| false))
+((|memory_model::choice_rf_1_7_0_8_T_2| false))
+((|memory_model::choice_ws-ext_0_10_1_1_F_17| true))
+((|memory_model::choice_ws-ext_0_10_1_6_F_18| true))
+((|memory_model::choice_ws-ext_0_13_1_1_F_19| true))
+((|memory_model::choice_ws-ext_0_13_1_6_F_20| true))
+((|memory_model::choice_ws-ext_0_14_1_3_F_15| true))
+((|memory_model::choice_ws-ext_0_8_1_8_T_16| true))
+((|memory_model::choice_ws-ext_0_9_1_3_F_14| true))
+((|pthread_cond_broadcast#return_value!1#1| #x00000000))
+((|pthread_cond_init#return_value!0#1| #x00000000))
+((|pthread_cond_init#return_value!1#1| #x00000000))
+((|pthread_cond_init::attr!0@1#1| #x00000000))
+((|pthread_cond_init::cond!0@1#1| #x03000000))
+((|pthread_cond_wait#return_value!1#1| #x00000000))
+((|pthread_cond_wait#return_value!1#2| #x00000000))
+((|pthread_cond_wait::cond!1@1#1| #x03000000))
+((|pthread_cond_wait::mutex!1@1#1| #x02000000))
+((|pthread_create#return_value!0#1| #x00000000))
+((|pthread_create#return_value!1#1| #x00000000))
+((|pthread_create::1::this_thread_id!0@1#1| #x00000000))
+((|pthread_create::1::this_thread_id!0@1#2| #x00000001))
+((|pthread_create::1::this_thread_id!1@0#0| #x00000000))
+((|pthread_create::arg!0@1#1| #x00000000))
+((|pthread_create::arg!1@0#1| #x00000000))
+((|pthread_create::attr!0@1#1| #x00000000))
+((|pthread_create::attr!1@0#1| #x00000000))
+((|pthread_create::start_routine!0@1#1| #x05000000))
+((|pthread_create::start_routine!1@0#1| #x05000000))
+((|pthread_create::thread!0@1#1| #x04000000))
+((|pthread_create::thread!1@0#1| #x04000000))
+((|pthread_join#return_value!1#1| #x00000000))
+((|pthread_mutex_init#return_value!0#1| #x00000000))
+((|pthread_mutex_init#return_value!1#1| #x00000000))
+((|pthread_mutex_init::mutex!0@1#1| #x02000000))
+((|pthread_mutex_init::mutexattr!0@1#1| #x00000000))
+((|pthread_mutex_lock#return_value!1#1| #x00000000))
+((|pthread_mutex_lock#return_value!1#2| #x00000000))
+((|pthread_mutex_lock::mutex!1@1#1| #x02000000))
+((|pthread_mutex_unlock#return_value!1#1| #x00000000))
+((|pthread_mutex_unlock#return_value!1#2| #x00000000))
+((|pthread_mutex_unlock::mutex!1@1#1| #x02000000))
+((|t1$17$spwnclk$8| (- 7)))
+((|thread#return_value!1#1| #x00000000))
+((|thread#return_value!1#2| #x00000000))
+((|thread::arg!1@1#1| #x00000000))
+((|x#1| #x00000000))
+((|x#1$wclk$8| (- 13)))
+((|x#2| #x00000000))
+((|x#2$wclk$8| (- 3)))
+((|x#3| #x00000001))
+((|x#3$wclk$8| (- 2)))
+((|x#4| #x00000002))
+((|x#4$wclk$8| (- 1)))
+((|x#5| #x00000003))
+((|x#5$wclk$8| 0))
+((|x#6| #x00000004))
+((|x#6$wclk$8| 1))
+((|x#7| #x00000000))
+((|x#7$rclk$8| (- 4)))
+(model 
+  (define-fun |memory_model::choice_rf_1_0_0_13_F_10| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_5_1_1_F_13| () Bool
+    false)
+  (define-fun |__CPROVER_threads_exited#1$wclk$8| () Int
+    (- 16))
+  (define-fun |memory_model::choice_ws-ext_0_8_1_8_T_16| () Bool
+    true)
+  (define-fun |__CPROVER_threads_exited#2$rclk$8| () Int
+    (- 2))
+  (define-fun |memory_model::choice_ws-ext_0_10_1_6_F_18| () Bool
+    true)
+  (define-fun |x#7| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |x#4$wclk$8| () Int
+    (- 1))
+  (define-fun |lock#3| () (_ BitVec 192)
+    #x000000000000000000000000000000000000000000000000)
+  (define-fun |memory_model::choice_rf_1_4_0_20_F_6| () Bool
+    false)
+  (define-fun |lock#6| () (_ BitVec 192)
+    #x000000000000000000000000000000000000000000000000)
+  (define-fun |lock#2$wclk$8| () Int
+    (- 11))
+  (define-fun |memory_model::choice_rf_1_2_0_9_F_0| () Bool
+    false)
+  (define-fun array.1 () (Array (_ BitVec 32) (_ BitVec 32))
+    ((as const (Array (_ BitVec 32) (_ BitVec 32))) #x00000000))
+  (define-fun |memory_model::choice_rf_1_4_0_11_F_3| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_4_0_19_F_5| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_14_1_3_F_15| () Bool
+    true)
+  (define-fun |lock#5$wclk$8| () Int
+    (- 6))
+  (define-fun |x#7$rclk$8| () Int
+    (- 4))
+  (define-fun |main::1::t!0@1#2$wclk$8| () Int
+    (- 8))
+  (define-fun |memory_model::choice_ws-ext_0_13_1_1_F_19| () Bool
+    true)
+  (define-fun |x#6$wclk$8| () Int
+    1)
+  (define-fun |main::1::t!0@1#1$wclk$8| () Int
+    (- 12))
+  (define-fun |memory_model::choice_ws-ext_0_13_1_6_F_20| () Bool
+    true)
+  (define-fun |x#2$wclk$8| () Int
+    (- 3))
+  (define-fun |memory_model::choice_rf_1_4_0_22_F_8| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_0_0_10_F_9| () Bool
+    false)
+  (define-fun |cond#6$wclk$8| () Int
+    (- 5))
+  (define-fun |__CPROVER_threads_exited#3$wclk$8| () Int
+    (- 1))
+  (define-fun |memory_model::choice_rf_1_4_0_21_F_7| () Bool
+    false)
+  (define-fun |memory_model::choice_ws-ext_0_9_1_3_F_14| () Bool
+    true)
+  (define-fun |lock#1$wclk$8| () Int
+    (- 14))
+  (define-fun |x#1$wclk$8| () Int
+    (- 13))
+  (define-fun |lock#8$wclk$8| () Int
+    (- 3))
+  (define-fun |memory_model::choice_rf_1_4_0_18_F_4| () Bool
+    false)
+  (define-fun t1$17$spwnclk$8 () Int
+    (- 7))
+  (define-fun |goto_symex::&92;guard#2| () Bool
+    true)
+  (define-fun |x#3$wclk$8| () Int
+    (- 2))
+  (define-fun |__CPROVER_next_thread_id#2$wclk$8| () Int
+    (- 9))
+  (define-fun |cond#1$wclk$8| () Int
+    (- 15))
+  (define-fun |cond#2$wclk$8| () Int
+    (- 10))
+  (define-fun |x#5$wclk$8| () Int
+    0)
+  (define-fun |memory_model::choice_ws-ext_0_10_1_1_F_17| () Bool
+    true)
+  (define-fun |memory_model::choice_rf_1_2_0_14_F_1| () Bool
+    true)
+  (define-fun |__CPROVER_pipe_count#1$wclk$8| () Int
+    (- 17))
+  (define-fun |__CPROVER_next_thread_id#1$wclk$8| () Int
+    (- 18))
+  (define-fun |__CPROVER_memory_leak#1$wclk$8| () Int
+    (- 19))
+  (define-fun |__CPROVER_malloc_size#1$wclk$8| () Int
+    (- 20))
+  (define-fun |__CPROVER_malloc_object#1$wclk$8| () Int
+    (- 21))
+  (define-fun |__CPROVER_malloc_is_new_array#1$wclk$8| () Int
+    (- 22))
+  (define-fun |__CPROVER_deallocated#1$wclk$8| () Int
+    (- 23))
+  (define-fun |__CPROVER_dead_object#1$wclk$8| () Int
+    (- 24))
+  (define-fun array_of.0 () (Array (_ BitVec 32) Bool)
+    ((as const (Array (_ BitVec 32) Bool)) false))
+  (define-fun |__CPROVER_threads_exited#2| () (Array (_ BitVec 32) Bool)
+    ((as const (Array (_ BitVec 32) Bool)) false))
+  (define-fun |cond#3| () (_ BitVec 384)
+    #x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff)
+  (define-fun |lock#6$rclk$8| () Int
+    (- 3))
+  (define-fun |cond#3$rclk$8| () Int
+    (- 5))
+  (define-fun |lock#3$rclk$8| () Int
+    (- 6))
+  (define-fun |cond#4| () (_ BitVec 384)
+    #x0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff)
+  (define-fun |lock#4| () (_ BitVec 192)
+    #x000000000000000000000000000000000000000000000000)
+  (define-fun |main::1::t!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::1::this_thread_id!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |main::1::1::i!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::1::this_thread_id!1@0#0| () (_ BitVec 32)
+    #x00000000)
+  (define-fun cond () (_ BitVec 384)
+    #x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+  (define-fun lock () (_ BitVec 192)
+    #x000000000000000000000000000000000000000000000000)
+  (define-fun |main::1::t!0@1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |memory_model::choice_rf_1_5_0_10_F_11| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_5_0_13_F_12| () Bool
+    false)
+  (define-fun |memory_model::choice_rf_1_7_0_8_T_2| () Bool
+    false)
+)
+(:added-eqs               21
+ :arith-add-rows          242
+ :arith-assert-lower      15
+ :arith-assert-upper      32
+ :arith-bound-prop        18
+ :arith-pivots            26
+ :binary-propagations     47
+ :bv-bit2core             704
+ :bv-diseqs               1
+ :bv->core-eq             8
+ :conflicts               1
+ :decisions               20
+ :del-clause              22
+ :eliminated-applications 19
+ :eliminated-vars         5
+ :final-checks            1
+ :max-memory              4.09
+ :memory                  3.36
+ :mk-bool-var             593
+ :mk-clause               28
+ :num-allocs              1848155
+ :num-checks              1
+ :propagations            50
+ :rlimit-count            29539
+ :time                    0.01
+ :total-time              0.01)
+
+real	0m0.017s
+user	0m0.014s
+sys	0m0.003s
+State: RE Run_time: 0.01881694793701172

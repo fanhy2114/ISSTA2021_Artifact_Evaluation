@@ -1,0 +1,7 @@
+CVC4 interrupted by SIGTERM.
+timeout: the monitored command dumped core
+
+real	30m6.658s
+user	29m55.562s
+sys	0m2.293s
+State: TO Run_time: 1806.6604318618774

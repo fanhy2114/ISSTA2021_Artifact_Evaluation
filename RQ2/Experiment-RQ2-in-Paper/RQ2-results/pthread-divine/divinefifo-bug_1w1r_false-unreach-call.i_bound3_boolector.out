@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-divine/divinefifo-bug_1w1r_false-unreach-call.i/bound3.smt:7339:14: unexpected end-of-file in quoted symbol
+
+real	0m0.085s
+user	0m0.085s
+sys	0m0.000s
+State: RE Run_time: 0.08731222152709961

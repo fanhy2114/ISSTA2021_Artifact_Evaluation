@@ -1,0 +1,6 @@
+*** internal error in 'lglib.c': more than 134217724 variables
+
+real	8m4.731s
+user	6m18.961s
+sys	0m41.496s
+State: AC Run_time: 484.7385244369507

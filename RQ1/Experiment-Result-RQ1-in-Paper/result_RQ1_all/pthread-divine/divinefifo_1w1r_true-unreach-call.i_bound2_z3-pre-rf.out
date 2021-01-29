@@ -1,0 +1,12 @@
+(error "line 3718 column 139: invalid indexed identifier, integer, identifier or '(' expected")
+(:max-memory   3.35
+ :memory       3.35
+ :mk-bool-var  1
+ :num-allocs   312558
+ :rlimit-count 260
+ :total-time   0.01)
+
+real	0m0.018s
+user	0m0.015s
+sys	0m0.003s
+State: RE Run_time: 0.020193815231323242

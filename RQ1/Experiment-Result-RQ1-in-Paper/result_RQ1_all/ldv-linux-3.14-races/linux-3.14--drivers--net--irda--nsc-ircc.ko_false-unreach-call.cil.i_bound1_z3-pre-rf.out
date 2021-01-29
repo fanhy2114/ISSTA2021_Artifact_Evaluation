@@ -1,0 +1,16 @@
+(error "line 9926 column 67: invalid concat application")
+(error "line 9927 column 67: invalid concat application")
+(error "line 9928 column 67: invalid concat application")
+(error "line 9929 column 66: invalid concat application")
+(error "line 11074 column 47: unexpected end of quoted symbol")
+(:max-memory   4.18
+ :memory       4.18
+ :mk-bool-var  1
+ :num-allocs   1077152
+ :rlimit-count 2508
+ :total-time   0.06)
+
+real	0m0.069s
+user	0m0.062s
+sys	0m0.007s
+State: RE Run_time: 0.07100677490234375

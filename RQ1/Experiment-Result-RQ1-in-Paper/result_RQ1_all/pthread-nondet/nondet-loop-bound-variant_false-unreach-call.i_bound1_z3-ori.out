@@ -1,0 +1,11 @@
+(error "line 263 column 107: invalid indexed identifier, integer, identifier or '(' expected")
+(:max-memory  2.52
+ :memory      2.52
+ :mk-bool-var 1
+ :num-allocs  163617
+ :total-time  0.00)
+
+real	0m0.006s
+user	0m0.006s
+sys	0m0.000s
+State: RE Run_time: 0.008331537246704102

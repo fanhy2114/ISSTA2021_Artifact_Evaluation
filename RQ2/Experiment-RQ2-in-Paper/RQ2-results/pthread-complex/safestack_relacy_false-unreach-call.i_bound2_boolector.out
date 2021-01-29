@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-complex/safestack_relacy_false-unreach-call.i/bound2.smt:6465:54: expected ')' to close bit-vector sort at end-of-file
+
+real	0m0.047s
+user	0m0.046s
+sys	0m0.001s
+State: RE Run_time: 0.04923844337463379

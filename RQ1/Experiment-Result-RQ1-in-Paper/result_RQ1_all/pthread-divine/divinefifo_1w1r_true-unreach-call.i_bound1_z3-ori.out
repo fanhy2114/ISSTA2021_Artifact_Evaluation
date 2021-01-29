@@ -1,0 +1,12 @@
+(error "line 1414 column 207: invalid expression, unexpected input")
+(:max-memory   2.82
+ :memory       2.82
+ :mk-bool-var  1
+ :num-allocs   205437
+ :rlimit-count 230
+ :total-time   0.00)
+
+real	0m0.008s
+user	0m0.000s
+sys	0m0.007s
+State: RE Run_time: 0.009489059448242188

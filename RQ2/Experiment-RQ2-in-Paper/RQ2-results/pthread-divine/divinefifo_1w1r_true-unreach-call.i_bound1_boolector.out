@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-divine/divinefifo_1w1r_true-unreach-call.i/bound1.smt:1415:141: expected ')' to close '(_ bv..' at end-of-file
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.001s
+State: RE Run_time: 0.004995584487915039

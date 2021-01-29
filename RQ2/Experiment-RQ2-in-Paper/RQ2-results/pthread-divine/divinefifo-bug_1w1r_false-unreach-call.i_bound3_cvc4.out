@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-divine/divinefifo-bug_1w1r_false-unreach-call.i/bound3.smt:7339.13: unterminated |quoted| symbol")
+
+real	0m0.763s
+user	0m0.756s
+sys	0m0.007s
+State: RE Run_time: 0.7655112743377686

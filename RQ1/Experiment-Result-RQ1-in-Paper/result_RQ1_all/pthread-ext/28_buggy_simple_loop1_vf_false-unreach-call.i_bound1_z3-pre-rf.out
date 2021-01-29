@@ -1,0 +1,224 @@
+num of guard = 2
+num of elim = 0
+num of guard = 2
+num of elim = 0
+sat
+((|B0| false))
+((|B1| false))
+((|B10| false))
+((|B11| true))
+((|B12| true))
+((|B13| false))
+((|B14| false))
+((|B15| false))
+((|B16| false))
+((|B17| false))
+((|B18| false))
+((|B19| true))
+((|B2| false))
+((|B20| true))
+((|B21| true))
+((|B22| true))
+((|B23| true))
+((|B24| true))
+((|B25| true))
+((|B26| true))
+((|B27| true))
+((|B28| false))
+((|B29| true))
+((|B3| false))
+((|B30| false))
+((|B4| false))
+((|B5| false))
+((|B6| false))
+((|B7| false))
+((|B8| false))
+((|B9| false))
+((|__CPROVER_dead_object#1| #x00000000))
+((|__CPROVER_dead_object#1$wclk$8| (- 11)))
+((|__CPROVER_deallocated#1| #x00000000))
+((|__CPROVER_deallocated#1$wclk$8| (- 10)))
+((|__CPROVER_malloc_is_new_array#1| false))
+((|__CPROVER_malloc_is_new_array#1$wclk$8| (- 9)))
+((|__CPROVER_malloc_object#1| #x00000000))
+((|__CPROVER_malloc_object#1$wclk$8| (- 8)))
+((|__CPROVER_malloc_size#1| #x00000000))
+((|__CPROVER_malloc_size#1$wclk$8| (- 7)))
+((|__CPROVER_memory_leak#1| #x00000000))
+((|__CPROVER_memory_leak#1$wclk$8| (- 6)))
+((|__CPROVER_next_thread_id#1| #x00000000))
+((|__CPROVER_next_thread_id#1$wclk$8| (- 5)))
+((|__CPROVER_next_thread_id#2| #x00000001))
+((|__CPROVER_next_thread_id#2$wclk$8| (- 1)))
+((|__CPROVER_pipe_count#1| #x00000000))
+((|__CPROVER_pipe_count#1$wclk$8| (- 4)))
+((|__CPROVER_rounding_mode!0#1| #x00000000))
+((|__CPROVER_rounding_mode!1#1| #x00000000))
+((|__CPROVER_thread_id!0#1| #x00000000))
+((|__CPROVER_thread_id!1#1| #x00000000))
+((|__CPROVER_thread_id!1#2| #x00000000))
+((|__CPROVER_threads_exited#1| ((as const (Array (_ BitVec 32) Bool)) false)))
+((|__CPROVER_threads_exited#1$wclk$8| (- 3)))
+((|__CPROVER_threads_exited#2| (store ((as const (Array (_ BitVec 32) Bool)) false) #x00000000 true)))
+((|__CPROVER_threads_exited#2$rclk$8| 2))
+((|__CPROVER_threads_exited#3| (store ((as const (Array (_ BitVec 32) Bool)) false) #x00000000 true)))
+((|__CPROVER_threads_exited#3$wclk$8| 3))
+((|__VERIFIER_nondet_uint#return_value!1#1| #x00000000))
+((|goto_symex::&92;guard#1| false))
+((|goto_symex::&92;guard#2| true))
+((|goto_symex::&92;guard#3| false))
+((|goto_symex::&92;guard#4| true))
+((|main#return_value!1#1| #x00000000))
+((|main::1::t!0@1| #x00000000))
+((|main::1::t!0@1#1| #x00000000))
+((|main::1::t!0@1#1$wclk$8| (- 2)))
+((|main::1::t!0@1#2| #x00000001))
+((|main::1::t!0@1#2$wclk$8| 0))
+((|memory_model::choice_rf_1_0_0_8_T_0| false))
+((|memory_model::choice_ws-ext_0_8_1_1_T_1| true))
+((|nondet_symex::nondet0| #x00000000))
+((|nondet_symex::nondet1| #x00000002))
+((|nondet_symex::nondet2| #x00000001))
+((|pthread_create#return_value!0#1| #x00000000))
+((|pthread_create#return_value!1#1| #x00000000))
+((|pthread_create::1::this_thread_id!0@1#1| #x00000000))
+((|pthread_create::1::this_thread_id!0@1#2| #x00000001))
+((|pthread_create::1::this_thread_id!1@0#0| #x00000000))
+((|pthread_create::arg!0@1#1| #x00000000))
+((|pthread_create::arg!1@0#1| #x00000000))
+((|pthread_create::attr!0@1#1| #x00000000))
+((|pthread_create::attr!1@0#1| #x00000000))
+((|pthread_create::start_routine!0@1#1| #x03000000))
+((|pthread_create::start_routine!1@0#1| #x03000000))
+((|pthread_create::thread!0@1#1| #x02000000))
+((|pthread_create::thread!1@0#1| #x02000000))
+((|t1$12$spwnclk$8| 1))
+((|thr1#return_value!1#1| #x00000000))
+((|thr1#return_value!1#2| #x00000000))
+((|thr1::1::i!1@1#1| #x00000000))
+((|thr1::1::i!1@1#2| #x00000000))
+((|thr1::1::i!1@1#3| #x00000001))
+((|thr1::1::i!1@1#4| #x00000000))
+((|thr1::1::j!1@1#1| #x00000000))
+((|thr1::1::j!1@1#2| #x00000001))
+((|thr1::1::j!1@1#3| #x00000001))
+((|thr1::1::j!1@1#4| #x00000002))
+((|thr1::1::j!1@1#5| #x00000001))
+((|thr1::1::j!1@1#6| #x00000001))
+((|thr1::1::k!1@1#1| #x00000000))
+((|thr1::1::k!1@1#2| #x00000001))
+((|thr1::1::k!1@1#3| #x00000001))
+((|thr1::1::k!1@1#4| #x00000002))
+((|thr1::1::k!1@1#5| #x00000001))
+((|thr1::1::k!1@1#6| #x00000001))
+((|thr1::1::k!1@1#7| #x00000001))
+((|thr1::1::x!1@1#1| #x00000000))
+((|thr1::1::x!1@1#2| #x00000000))
+((|thr1::1::y!1@1#1| #x00000000))
+((|thr1::1::y!1@1#2| #x00000002))
+((|thr1::1::z!1@1#1| #x00000000))
+((|thr1::1::z!1@1#2| #x00000001))
+((|thr1::arg!1@1#1| #x00000000))
+(model 
+  (define-fun |__CPROVER_threads_exited#2$rclk$8| () Int
+    2)
+  (define-fun |__CPROVER_threads_exited#3$wclk$8| () Int
+    3)
+  (define-fun |main::1::t!0@1#2$wclk$8| () Int
+    0)
+  (define-fun |memory_model::choice_ws-ext_0_8_1_1_T_1| () Bool
+    true)
+  (define-fun |nondet_symex::nondet1| () (_ BitVec 32)
+    #x00000002)
+  (define-fun t1$12$spwnclk$8 () Int
+    1)
+  (define-fun |__CPROVER_next_thread_id#2$wclk$8| () Int
+    (- 1))
+  (define-fun |main::1::t!0@1#1$wclk$8| () Int
+    (- 2))
+  (define-fun |__CPROVER_threads_exited#1$wclk$8| () Int
+    (- 3))
+  (define-fun |nondet_symex::nondet0| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |__CPROVER_pipe_count#1$wclk$8| () Int
+    (- 4))
+  (define-fun |__CPROVER_next_thread_id#1$wclk$8| () Int
+    (- 5))
+  (define-fun |__CPROVER_memory_leak#1$wclk$8| () Int
+    (- 6))
+  (define-fun |__CPROVER_malloc_size#1$wclk$8| () Int
+    (- 7))
+  (define-fun |__CPROVER_malloc_object#1$wclk$8| () Int
+    (- 8))
+  (define-fun |__CPROVER_malloc_is_new_array#1$wclk$8| () Int
+    (- 9))
+  (define-fun |__CPROVER_deallocated#1$wclk$8| () Int
+    (- 10))
+  (define-fun |__CPROVER_dead_object#1$wclk$8| () Int
+    (- 11))
+  (define-fun array_of.0 () (Array (_ BitVec 32) Bool)
+    ((as const (Array (_ BitVec 32) Bool)) false))
+  (define-fun |__CPROVER_threads_exited#2| () (Array (_ BitVec 32) Bool)
+    (store ((as const (Array (_ BitVec 32) Bool)) false) #x00000000 true))
+  (define-fun |memory_model::choice_rf_1_0_0_8_T_0| () Bool
+    false)
+  (define-fun |goto_symex::&92;guard#3| () Bool
+    false)
+  (define-fun |nondet_symex::nondet2| () (_ BitVec 32)
+    #x00000001)
+  (define-fun |goto_symex::&92;guard#2| () Bool
+    true)
+  (define-fun |goto_symex::&92;guard#4| () Bool
+    true)
+  (define-fun |goto_symex::&92;guard#1| () Bool
+    false)
+  (define-fun |main::1::t!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::1::this_thread_id!0@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |thr1::1::x!1@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |thr1::1::y!1@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |thr1::1::z!1@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |thr1::1::i!1@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |thr1::1::j!1@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |thr1::1::k!1@1#1| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |pthread_create::1::this_thread_id!1@0#0| () (_ BitVec 32)
+    #x00000000)
+  (define-fun |main::1::t!0@1| () (_ BitVec 32)
+    #x00000000)
+)
+(:added-eqs               3
+ :arith-add-rows          19
+ :arith-assert-lower      3
+ :arith-assert-upper      6
+ :arith-bound-prop        3
+ :arith-pivots            7
+ :binary-propagations     69
+ :bv-dynamic-diseqs       4
+ :bv->core-eq             1
+ :decisions               32
+ :del-clause              66
+ :eliminated-applications 21
+ :eliminated-vars         2
+ :final-checks            1
+ :max-memory              3.82
+ :memory                  3.27
+ :mk-bool-var             162
+ :mk-clause               70
+ :num-allocs              1443488
+ :num-checks              1
+ :propagations            100
+ :rlimit-count            5107
+ :time                    0.00
+ :total-time              0.01)
+
+real	0m0.013s
+user	0m0.010s
+sys	0m0.003s
+State: AC Run_time: 0.01548314094543457

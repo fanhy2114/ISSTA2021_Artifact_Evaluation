@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread/queue_false-unreach-call.i/bound6.smt:443227.867: Sequence terminated early by token: '<<EOF>>'.")
+
+real	0m22.840s
+user	0m22.719s
+sys	0m0.080s
+State: RE Run_time: 22.842150688171387

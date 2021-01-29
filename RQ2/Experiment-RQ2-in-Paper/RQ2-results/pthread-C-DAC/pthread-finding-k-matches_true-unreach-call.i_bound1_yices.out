@@ -1,0 +1,6 @@
+(error "at line 2226, column 20: syntax error")
+
+real	0m0.004s
+user	0m0.001s
+sys	0m0.003s
+State: AC Run_time: 0.005764961242675781

@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-lit/sssc12_variant_true-unreach-call.i/bound2.smt:2247:158: unexpected end-of-file, '(' at line 2247 column 67 not closed
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
+State: RE Run_time: 0.005505561828613281

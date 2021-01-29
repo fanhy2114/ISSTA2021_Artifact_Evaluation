@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-nondet/nondet-loop-bound-variant_false-unreach-call.i/bound5.smt:1442.39: unterminated |quoted| symbol")
+
+real	0m0.025s
+user	0m0.025s
+sys	0m0.000s
+State: RE Run_time: 0.027146339416503906

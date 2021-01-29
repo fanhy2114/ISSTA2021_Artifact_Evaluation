@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-nondet/nondet-loop-bound-variant_false-unreach-call.i/bound4.smt:1113:111: unexpected end-of-file, '(' at line 1113 column 28 not closed
+
+real	0m0.003s
+user	0m0.001s
+sys	0m0.002s
+State: RE Run_time: 0.004788398742675781

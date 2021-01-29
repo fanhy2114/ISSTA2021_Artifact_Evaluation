@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/ldv-races/race-4_1-thread_local_vars_true-unreach-call.i/bound5.smt:361795:206: expected ')' to close '(_ extract' at end-of-file
+
+real	0m8.134s
+user	0m7.946s
+sys	0m0.183s
+State: RE Run_time: 8.13636064529419

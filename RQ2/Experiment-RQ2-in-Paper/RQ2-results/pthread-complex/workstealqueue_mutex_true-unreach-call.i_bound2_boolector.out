@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-complex/workstealqueue_mutex_true-unreach-call.i/bound2.smt:1170:106: first argument of 'select' is not an array
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+State: RE Run_time: 0.004120826721191406

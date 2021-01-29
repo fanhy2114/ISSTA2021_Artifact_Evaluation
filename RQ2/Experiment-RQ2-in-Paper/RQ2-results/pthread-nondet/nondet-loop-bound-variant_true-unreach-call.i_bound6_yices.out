@@ -1,0 +1,6 @@
+(error "at line 1639, column 311: invalid symbol")
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+State: AC Run_time: 0.0043141841888427734

@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-lit/sssc12_variant_true-unreach-call.i/bound6.smt:15066:344: unexpected end-of-file in quoted symbol
+
+real	0m0.023s
+user	0m0.023s
+sys	0m0.000s
+State: RE Run_time: 0.02503824234008789

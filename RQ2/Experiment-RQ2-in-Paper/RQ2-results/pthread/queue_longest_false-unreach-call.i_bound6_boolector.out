@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread/queue_longest_false-unreach-call.i/bound6.smt:435028:234: expected ')' to close '(_ bv..' at end-of-file
+
+real	1m38.334s
+user	1m38.044s
+sys	0m0.140s
+State: RE Run_time: 98.34560561180115

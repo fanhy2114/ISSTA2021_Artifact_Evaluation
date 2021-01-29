@@ -1,0 +1,12 @@
+(error "line 7338 column 58: invalid sort, symbol, '_' or '(' expected got fifo_empty::$tmp::::tmp_if_expr$1!0@6#3")
+(:max-memory   3.72
+ :memory       3.72
+ :mk-bool-var  1
+ :num-allocs   368645
+ :rlimit-count 251
+ :total-time   0.06)
+
+real	0m0.065s
+user	0m0.064s
+sys	0m0.001s
+State: RE Run_time: 0.06711483001708984

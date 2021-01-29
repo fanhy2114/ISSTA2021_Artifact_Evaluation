@@ -1,0 +1,12 @@
+(error "line 434285 column 34: unexpected end of quoted symbol")
+(:max-memory   79.74
+ :memory       76.57
+ :mk-bool-var  1
+ :num-allocs   933056526
+ :rlimit-count 880337
+ :total-time   2.24)
+
+real	0m2.288s
+user	0m2.260s
+sys	0m0.027s
+State: RE Run_time: 2.2902166843414307

@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-divine/divinefifo_1w1r_true-unreach-call.i/bound3.smt:7326.237: Sequence terminated early by token: '<<EOF>>'.")
+
+real	0m0.650s
+user	0m0.642s
+sys	0m0.007s
+State: RE Run_time: 0.6517868041992188

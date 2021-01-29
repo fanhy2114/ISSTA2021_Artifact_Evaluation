@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/ldv-linux-3.14-races/linux-3.14--drivers--net--irda--nsc-ircc.ko_false-unreach-call.cil.i/bound1.smt:9927:60: argument 2 of 'concat' is an array
+
+real	0m0.087s
+user	0m0.077s
+sys	0m0.007s
+State: RE Run_time: 0.08919835090637207

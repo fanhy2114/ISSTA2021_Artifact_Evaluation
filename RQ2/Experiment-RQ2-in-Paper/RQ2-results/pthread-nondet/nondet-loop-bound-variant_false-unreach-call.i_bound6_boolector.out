@@ -1,0 +1,6 @@
+boolector: ./smt_for_z3_20201228_sc_bv/pthread-nondet/nondet-loop-bound-variant_false-unreach-call.i/bound6.smt:1639:311: unexpected end-of-file in quoted symbol
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
+State: RE Run_time: 0.0057184696197509766

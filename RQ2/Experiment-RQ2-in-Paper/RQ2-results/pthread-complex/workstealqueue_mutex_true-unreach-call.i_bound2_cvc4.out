@@ -1,0 +1,6 @@
+(error "Parse Error: ./smt_for_z3_20201228_sc_bv/pthread-complex/workstealqueue_mutex_true-unreach-call.i/bound2.smt:1170.122: array select operating on non-array")
+
+real	0m0.024s
+user	0m0.023s
+sys	0m0.000s
+State: RE Run_time: 0.025728464126586914
