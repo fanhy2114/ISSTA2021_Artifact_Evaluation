@@ -1,0 +1,88 @@
+/home/fhy18/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.5981.166/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/fhy18/GitRepo/pre_decide_rf/cbmc-concurrent-concurrent-ef4644
+-- The C compiler identification is GNU 10.2.0
+-- The CXX compiler identification is GNU 10.2.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc - works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ - works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found BISON: /usr/bin/bison (found version "3.7.2") 
+-- Found FLEX: /usr/bin/flex (found version "2.6.4") 
+-- Found Doxygen: /usr/bin/doxygen (found version "1.9.1") found components: doxygen dot 
+-- Building solvers with minisat2
+-- Downloading/updating minisat2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fhy18/GitRepo/pre_decide_rf/cbmc-concurrent-concurrent-ef4644/cmake-build-release/minisat2-download
+Scanning dependencies of target minisat2-download
+[ 11%] Creating directories for 'minisat2-download'
+[ 22%] Performing download step (download, verify and extract) for 'minisat2-download'
+-- Downloading...
+   dst='/home/fhy18/GitRepo/pre_decide_rf/cbmc-concurrent-concurrent-ef4644/cmake-build-release/minisat2-download/minisat2-download-prefix/src/minisat2_2.2.1.orig.tar.gz'
+   timeout='none'
+-- Using src='http://ftp.debian.org/debian/pool/main/m/minisat2/minisat2_2.2.1.orig.tar.gz'
+-- [download 0% complete]
+-- [download 29% complete]
+-- [download 48% complete]
+-- [download 55% complete]
+-- [download 68% complete]
+-- [download 74% complete]
+-- [download 81% complete]
+-- [download 94% complete]
+-- [download 100% complete]
+-- Downloading... done
+-- extracting...
+     src='/home/fhy18/GitRepo/pre_decide_rf/cbmc-concurrent-concurrent-ef4644/cmake-build-release/minisat2-download/minisat2-download-prefix/src/minisat2_2.2.1.orig.tar.gz'
+     dst='/home/fhy18/GitRepo/pre_decide_rf/cbmc-concurrent-concurrent-ef4644/cmake-build-release/minisat2-src'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done
+[ 33%] Performing patch step for 'minisat2-download'
+patching file minisat/core/Solver.cc
+patching file minisat/core/SolverTypes.h
+patching file minisat/mtl/IntTypes.h
+patching file minisat/mtl/Vec.h
+patching file minisat/simp/SimpSolver.cc
+patching file minisat/utils/Options.h
+patching file minisat/utils/ParseUtils.h
+patching file minisat/utils/System.h
+[ 44%] No update step for 'minisat2-download'
+[ 55%] No configure step for 'minisat2-download'
+[ 66%] No build step for 'minisat2-download'
+[ 77%] No install step for 'minisat2-download'
+[ 88%] No test step for 'minisat2-download'
+[100%] Completed 'minisat2-download'
+[100%] Built target minisat2-download
+-- Found Java: /usr/bin/java (found version "15.0.2") 
+-- Adding tests in directory: ansi-c
+-- Adding tests in directory: cbmc
+-- Adding tests in directory: cbmc-cover
+-- Adding tests in directory: cbmc-cpp
+-- Adding tests in directory: cbmc-java
+-- Adding tests in directory: cbmc-java-inheritance
+-- Adding tests in directory: cpp
+-- Adding tests in directory: goto-analyzer
+-- Adding tests in directory: goto-analyzer-taint
+-- Adding tests in directory: goto-cc-cbmc
+-- Adding tests in directory: goto-cc-goto-analyzer
+-- Adding tests in directory: goto-diff
+-- Adding tests in directory: goto-instrument
+-- Adding tests in directory: goto-instrument-typedef
+-- Adding tests in directory: goto-gcc
+-- Adding tests in directory: invariants
+-- Adding tests in directory: jbmc-strings
+-- Adding tests in directory: strings
+-- Adding tests in directory: strings-smoke-tests
+-- Adding tests in directory: test-script
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fhy18/GitRepo/pre_decide_rf/cbmc-concurrent-concurrent-ef4644/cmake-build-release
